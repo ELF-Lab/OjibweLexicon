@@ -2,6 +2,12 @@
 
 This repository houses public-facing lexical items for the OjibweMorph FST, including processed versions of the OPD data.
 
+### Citation
+
+To cite this work or the contents of the repository in an academic work, please use the following:
+
+> [Hammerly, C., Livesay, N., Arppe A., Stacey, A., & Silfverberg, M. (Submitted) OjibweMorph: An approachable morphological parser for Ojibwe](https://christopherhammerly.com/publication/ojibwemorph/OjibweMorph.pdf)
+
 ### Inflectional class mappings (`resources/`)
 The data from the [Ojibwe People's Dictionary (OPD)](https://ojibwe.lib.umn.edu) (stored in `OPD/` in this repo) has had its part of speech (POS) tags (e.g., *vta*) converted into inflectional classes (e.g., *VTA_s*) used in the paradigm spreadsheets in [OjibweMorph](https://github.com/ELF-Lab/OjibweMorph/) (in the XSpreadsheets subdirectories).
 
