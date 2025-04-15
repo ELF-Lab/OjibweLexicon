@@ -4,7 +4,7 @@ VAI,VAI_rfx,vai,^.*dizo$,NONE
 VAIPL,VAIPL_VV,vai,^.*(aa|ii|oo|e)$,^.*wag$
 VAIPL,VAIPL_V,vai,^.*[^iou][iou]$,^.*wag$
 VAIPL,VAIPL_n,vai,^.*n$,^.*oog$
-VAIPL,VAIPL_am,vai2,^.*am$,^.*oog$
+VAIPL,VAIPL_am,vai2,NONE,^.*amoog$
 VAI,VAI_V,vai,NONE,^.*[^aiou][aiou]$
 VAI,VAI_VV,vai,NONE,^.*(aa|ii|oo|e)$
 VAI,VAI_am,vai2,NONE,^.*am$
