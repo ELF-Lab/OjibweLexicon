@@ -65,3 +65,11 @@ The inflectional class will be *VTA_Cw* because this lexeme matches the test:
 VTA,VTA_Cw,vta,^.*[bcdfghjklmnpstwz']w$,NONE
 ```
 because the POS is *vta* and the stem matches the regular expression `^.*[bcdfghjklmnpstwz']w$`.  No previous rows match, so this class is assigned.
+
+### Lexical data to exclude (`other/`)
+This CSV specifies forms in the lemma spreadsheets that should *not* be included in the FST.  Each row specifies one form or group of forms.  The following information must be specified for each row:
+- **Directory**: The directory here in OjibweLexicon that this exclusion applies to.  For example, you may want to exclude pronouns from the `OPD` directory but include pronouns from the `HammerlyFieldwork` directory.  If you want an exclusion to apply to all directories, you must repeat it with one row specifying each directory.
+- **Field**: The field being used to identify the form(s) to exclude.  For example, if you want to exclude all members of a particular class, this should be set to `Class`.  Options are: Class, Lemma, Paradigm, Stem.
+- **Value**: The value of the field that should be excluded.  For example, this could be the paradigm `PRONDem` or the lemma `dagonigan`.
+
+If the CSV specifies forms that are already not included in the FST (e.g., some forms in OjibweLexicon/OPD when the user has specified in OjibweMorph not to use the CSVs in that directory at all), nothing will happen.
