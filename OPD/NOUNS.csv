@@ -14,7 +14,7 @@ bimaatigwewi-naabikwaan,bimaatigwewi-naabikwaan,NI,NI_C,NONE,https://ojibwe.lib.
 waasamowin,waasamowin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waasamowin-ni
 waasechigani-asabaabik,waasechigani-asabaabikw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/waasechigani-asabaabik-ni
 waawaashkeshi,waawaashkeshiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/waawaashkeshi-na
-waapijiibizoneyaab,waapijiibizoneyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waapijiibizoneyaab-ni
+waapijiibizoneyaab,waapijiibizoneyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/waapijiibizoneyaab-ni
 waasamoo-jiimaanens,waasamoo-jiimaanens,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waasamoo-jiimaanens-ni
 waasiingwaagan,waasiingwaagan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waasiingwaagan-ni
 waasamoo-anokiiwinini,waasamoo-anokiiwininiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/waasamoo-anokiiwinini-na
@@ -80,7 +80,7 @@ maawandoogwaason,maawandoogwaason,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-e
 doodikosiw,doodikosiw2,NAD,NAD_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/indoodikosiw-nad
 nase'igan,nase'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/nase-igan-ni
 gondashkway,gondashkway,NID,NID_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ningondashkway-nid
-wanakoshkinzh,wanakoshkinzhy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/wanakoshkinzh-ni-8f9cc595-629b-4d2a-838f-c0cc972ad2d1
+wanakoshkinzh,wanakoshkinzhy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wanakoshkinzh-ni-8f9cc595-629b-4d2a-838f-c0cc972ad2d1
 awesiinh,awesiinhy1,NA,NA_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/awesiinh-na
 iitaaw,iitaaw2,NAD,NAD_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/wiitaan-nad
 ma'iinganasim,ma'iinganasimw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/ma-iinganasim-na
@@ -612,7 +612,7 @@ naan,naan,NID,NID_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ginaan-nid
 iitaawis,iitaawis,NAD,NAD_C,NONE,https://ojibwe.lib.umn.edu/main-entry/iitaawis-nad
 iskigamizige-giizis,iskigamizige-giizisw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/iskigamizige-giizis-na
 niiyawen'enhy,niiyawen'enhy1,NAD,NAD_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/niiyawen-enh-nad
-baatepin,baatepiny1,NI,NI_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/baatepin-ni
+baatepin,baatepiny2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/baatepin-ni
 noondaagochigan,noondaagochigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/noondaagochigan-ni
 gagiikwewin,gagiikwewin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gagiikwewin-ni
 asabaabisens,asabaabisens,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/asabaabisens-na
@@ -643,8 +643,8 @@ anishinaabemowin,anishinaabemowin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-e
 agoodakikwaan,agoodakikwaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/agoodakikwaan-ni
 nagaakizid,nagaakizid,NID,NID_aa,NONE,https://ojibwe.lib.umn.edu/main-entry/ginagaakizid-nid
 biiwaabikokaan,biiwaabikokaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biiwaabikokaan-ni
-maang,maangw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/maang-na
 maang,maangw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/maang-na
+maang,maangw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/maang-na
 Midewiwin,midewiwin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/midewiwin-ni
 waaboozo-nagwaagan,waaboozo-nagwaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waaboozo-nagwaagan-ni
 agongosens,agongosens,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/agongosens-na
@@ -711,15 +711,15 @@ nimisenhy,nimisenhy1,NAD,NAD_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/nim
 nik,nik,NID,NID_aa,NONE,https://ojibwe.lib.umn.edu/main-entry/ninik-nid
 waawiyebii'igan,waawiyebii'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waawiyebii-igan-ni
 biindaasowin,biindaasowin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biindaasowin-ni
-mayagi-bine,mayagi-binew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mayagi-bine-na
 mayagi-bine,mayagi-binew2,NA,NA_VVw,NONE,https://ojibwe.lib.umn.edu/main-entry/mayagi-bine-na
+mayagi-bine,mayagi-binew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mayagi-bine-na
 migoosi-wajiw,migoosi-wajiw,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/migoosi-wajiw-ni
 amik,amikw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/amik-na
 amik,amikw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/amik-na
 anama'ekwe,anama'ekwew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/anama-ekwe-na
 maanendamowin,maanendamowin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/maanendamowin-ni
 ikwezens,ikwezens,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ikwezens-na
-miinaganzh,miinaganzhy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/miinaganzh-ni
+miinaganzh,miinaganzhy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/miinaganzh-ni
 zhaabwaakizon,zhaabwaakizon,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhaabwaakizon-ni
 ozhaawashko-manoomin,ozhaawashko-manoomin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ozhaawashko-manoomin-ni
 amiko-wiiyaakwa'igan,amiko-wiiyaakwa'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/amiko-wiiyaakwa-igan-ni
@@ -871,7 +871,7 @@ mashkiigobagwaabo,mashkiigobagwaabow2,NI,NI_Vw,NONE,https://ojibwe.lib.umn.edu/m
 animwaabid,animwaabid,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/animwaabid-ni
 mikwamii-makak,mikwamii-makakw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/mikwamii-makak-ni
 zagaswe'idiwin,zagaswe'idiwin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zagaswe-idiwin-ni
-gijigi-baatepin,gijigi-baatepiny1,NI,NI_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/gijigi-baatepin-ni
+gijigi-baatepin,gijigi-baatepiny2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/gijigi-baatepin-ni
 miskwaabigwan,miskwaabigwan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/misko-waabigwan-ni
 gaashiboojigan,gaashiboojigan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gaashiboojigan-na
 mizise,mizisew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mizise-na
@@ -936,8 +936,8 @@ gookooshiwi-bimide,gookooshiwi-bimidew2,NI,NI_VV,NONE,https://ojibwe.lib.umn.edu
 ode'iminibag,ode'iminibagw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/ode-iminibag-ni
 animo-moo,animo-moow2,NI,NI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/animo-moo-ni
 asasawemin,asasawemin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/asasawemin-ni
-bine,binew2,NA,NA_VVw,NONE,https://ojibwe.lib.umn.edu/main-entry/bine-na
 bine,binew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bine-na
+bine,binew2,NA,NA_VVw,NONE,https://ojibwe.lib.umn.edu/main-entry/bine-na
 naabese,naabesew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/naabese-na
 akwaandawaagan,akwaandawaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/akwaandawaagan-ni
 bakitejii'igewin,bakitejii'igewin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bakitejii-igewin-ni
@@ -952,14 +952,14 @@ doozhim,doozhim,NAD,NAD_C,NONE,https://ojibwe.lib.umn.edu/main-entry/nindoozhim-
 ozaawi-gibozigan,ozaawi-gibozigan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ozaawi-gibozigan-na
 okaadaak,okaadaakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/okaadaak-na
 gikinoo'amaagewinini,gikinoo'amaagewininiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/gikinoo-amaagewinini-na
-aandeg,aandegw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/aandeg-na
 aandeg,aandegw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/aandeg-na
+aandeg,aandegw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/aandeg-na
 gibide'ebizon,gibide'ebizon,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gibide-ebizon-ni
 waawaashkeshiwidoodikosiw,waawaashkeshiwidoodikosiw,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waawaashkeshiwidoodikosiw-na
 wazhashkwaazh,wazhashkwaazh,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wazhashkwaazh-ni
 waabishkiigin,waabishkiiginw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/waabishkiigin-ni
 nooshkaachinaagan,nooshkaachinaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/nooshkaachinaagan-ni
-nengawiminaganzh,nengawiminaganzhy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/nengawiminaganzh-na
+nengawiminaganzh,nengawiminaganzhy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/nengawiminaganzh-na
 amikwaazh,amikwaazh,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/amikwaazh-ni
 gashkadino-giizis,gashkadino-giizisw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/gashkadino-giizis-na
 biisi-zhooniyaans,biisi-zhooniyaans,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biisi-zhooniyaans-na
@@ -971,7 +971,7 @@ zhingwaakwanagek,zhingwaakwanagekw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/
 mazhoominaaboo,mazhoominaaboow2,NI,NI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mazhoominaaboo-ni
 baapaashkizige-giizis,baapaashkizige-giizisw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/baapaashkizige-giizis-na
 gibaabowe'igan,gibaabowe'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gibaabowe-igan-ni
-wewebanaabaaneyaab,wewebanaabaaneyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wewebanaabaaneyaab-ni
+wewebanaabaaneyaab,wewebanaabaaneyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/wewebanaabaaneyaab-ni
 ozide-miikana,ozide-miikan,NI,NI_Kana,NONE,https://ojibwe.lib.umn.edu/main-entry/ozide-miikana-ni
 zaga'igan,zaga'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zaga-igan-ni
 minjimaakwa'igan,minjimaakwa'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/minjimaakwa-igan-ni
@@ -1065,7 +1065,7 @@ mitigoons,mitigoons,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mitigoons
 anwiins,anwiins,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/anwiins-ni
 boozaabikinigan,boozaabikinigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/boozaabikinigan-ni
 neyaashi,neyaashiw2,NI,NI_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/neyaashi-ni
-anit,anity,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/anit-ni
+anit,anity2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/anit-ni
 jiisakiiwinini,jiisakiiwininiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/jiisakiiwinini-na
 wanii'ige-mazina'igaans,wanii'ige-mazina'igaans,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wanii-ige-mazina-igaans-ni
 aapiji-wiidigendiwin,aapiji-wiidigendiwin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/aapiji-wiidigendiwin-ni
@@ -1075,7 +1075,7 @@ zhigaagawinzh,zhigaagawinzhy2,NA,NA_Cy,NONE,https://ojibwe.lib.umn.edu/main-entr
 bawa'iganaatig,bawa'iganaatigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bawa-iganaatig-ni
 ningwanis,ningwanis,NAD,NAD_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ningwanis-nad
 bagesaanaatig,bagesaanaatigw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bagesaanaatig-na
-zhiishiibidis,zhiishiibidisy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhiishiibidis-ni
+zhiishiibidis,zhiishiibidisy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/zhiishiibidis-ni
 gikachigan,gikachigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gikachigan-ni
 mazinibii'ige-mazina'igan,mazinibii'ige-mazina'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mazinibii-ige-mazina-igan-ni
 giziibiiga'iganaabo,giziibiiga'iganaabow2,NI,NI_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/giziibiiga-iganaabo-ni
@@ -1102,7 +1102,7 @@ giziibiiwinaagan,giziibiiwinaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-e
 gimoodiiwikwe,gimoodiiwikwew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gimoodiiwikwe-na
 bami'aagaans,bami'aagaans,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bami-aagaans-na
 zanagiz,zanagiz,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zanagiz-na
-bashanzhe'iganeyaab,bashanzhe'iganeyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bashanzhe-iganeyaab-ni
+bashanzhe'iganeyaab,bashanzhe'iganeyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/bashanzhe-iganeyaab-ni
 mayaganishinaabe,mayaganishinaabew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mayaganishinaabe-na
 zhizhoobii'igan,zhizhoobii'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhizhoobii-igan-ni
 zagaskway,zagaskway,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zagaskway-na
@@ -1131,7 +1131,7 @@ omashkoziisimin,omashkoziisimin,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-ent
 amiko-nooka'iiwagwaan,amiko-nooka'iiwagwaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/amiko-nooka-iiwagwaan-ni
 mashkawaji-bimide,mashkawaji-bimidew2,NI,NI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkawaji-bimide-ni
 mamakiziwin,mamakiziwin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mamakiziwin-ni
-naboob,nabooby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/naboob-ni
+naboob,nabooby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/naboob-ni
 wiidookaagewikwe,wiidookaagewikwew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/wiidookaagewikwe-na
 mitigomin,mitigomin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mitigomin-ni
 desiiwakwaan,desiiwakwaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/desiiwakwaan-ni
@@ -1145,10 +1145,10 @@ kakwan,kakwan,NID,NID_aa,NONE,https://ojibwe.lib.umn.edu/main-entry/okakwan-nid
 miskwaanzigan,miskwaanzigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/miskwaanzigan-ni
 jichaagw,jichaagw2,NAD,NAD_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/ninjichaag-nad
 zhinawisijigan,zhinawisijigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhinawisijigan-ni
-baapaagimaak,baapaagimaakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/baapaagimaak-na
 baapaagimaak,baapaagimaakw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/baapaagimaak-na
+baapaagimaak,baapaagimaakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/baapaagimaak-na
 bootaagan,bootaagan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bootaagan-na
-agokiwasiganeyaab,agokiwasiganeyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/agokiwasiganeyaab-ni
+agokiwasiganeyaab,agokiwasiganeyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/agokiwasiganeyaab-ni
 ziinikiigomaan,ziinikiigomaan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ziinikiigomaan-na
 amanisowin,amanisowin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/amanisowin-ni
 mashkiki,mashkikiw2,NI,NI_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkiki-ni
@@ -1227,7 +1227,7 @@ misaabe,misaabew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/misaabe-na
 gichinik,gichinik,NI,NI_aa,NONE,https://ojibwe.lib.umn.edu/main-entry/gichinik-ni
 waabaabigan,waabaabigan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waabaabigan-na
 daangosheny,daangosheny1,NAD,NAD_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/daangosheny-nad
-waaboozoninj,waaboozoninjy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waaboozoninj-ni
+waaboozoninj,waaboozoninjy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/waaboozoninj-ni
 webinigan,webinigan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/webinigan-na
 gaanda'igwaason,gaanda'igwaason,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gaanda-igwaason-ni
 bagonezigoboojigan,bagonezigoboojigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bagonezigoboojigan-ni
@@ -1269,6 +1269,7 @@ mazaanaatig,mazaanaatigw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/ma
 waaboozekon,waaboozekon,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waaboozekon-ni
 abwewinaabik,abwewinaabikw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/abwewinaabik-ni
 zaaga'igan,zaaga'igany2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/zaaga-igan-ni
+zaaga'igan,zaaga'igany1,NI,NI_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/zaaga-igan-ni
 nenookaasi,nenookaasiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/nenookaasi-na
 zhooshkwega'igan,zhooshkwega'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhooshkwega-igan-ni
 kaakigan,kaakigan,NID,NID_C,NONE,https://ojibwe.lib.umn.edu/main-entry/kaakigan-nid
@@ -1292,7 +1293,7 @@ anama'ewigamig,anama'ewigamigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-en
 asabikaanaak,asabikaanaakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/asabikaanaak-na
 niigaanendaagoziwin,niigaanendaagoziwin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/niigaanendaagoziwin-ni-7c6cf453-e3df-4903-a388-8c6bee799bac
 mina'igo-bigiw,mina'igo-bigiw,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mina-igo-bigiw-ni
-miskogaadeyaab,miskogaadeyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/miskogaadeyaab-ni
+miskogaadeyaab,miskogaadeyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/miskogaadeyaab-ni
 wazhashkwaanow,wazhashkwaanow,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wazhashkwaanow-ni
 biibiiyens,biibiiyens,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biibii-na
 bineshiinhwayaan,bineshiinhwayaan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bineshiinhwayaan-na
@@ -1372,7 +1373,7 @@ gaag,gaagw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/gaag-na
 ozhibii'igewigamig,ozhibii'igewigamigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/ozhibii-igewigamig-ni
 gaawaandag,gaawaandagw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/gaawaandag-na
 ataason,ataason,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ataason-ni
-wanakoninj,wanakoninjy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/wanakoninj-ni
+wanakoninj,wanakoninjy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wanakoninj-ni
 miskojiisimin,miskojiisimin,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/miskojiisimin-na
 apanjigan,apanjigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/apanjigan-ni
 izhi'on,izhi'on,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/izhi-on-ni
@@ -1390,7 +1391,7 @@ ombizigan,ombizigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ombizigan
 oshkiinzhigokaanens,oshkiinzhigokaanens,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/oshkiinzhigokaanens-ni
 oshkaabewis,oshkaabewis,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/oshkaabewis-na
 iikaan,iikaan,NAD,NAD_C,NONE,https://ojibwe.lib.umn.edu/main-entry/iikaan-nad
-makoninj,makoninjy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/makoninj-ni
+makoninj,makoninjy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/makoninj-ni
 bakwezhigani-ozaawaakizigan,bakwezhigani-ozaawaakizigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bakwezhigani-ozaawaakizigan-ni
 gikinoo'amaagewikwe,gikinoo'amaagewikwew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gikinoo-amaagewikwe-na
 aabita-niibino-giizis,aabita-niibino-giizisw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/aabita-niibino-giizis-na
@@ -1427,7 +1428,7 @@ bagoneboojigan,bagoneboojigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry
 migiskanaak,migiskanaakw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/migiskanaak-ni
 babiizigaakizigewinini,babiizigaakizigewininiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/babiizigaakizigewinini-na
 oniijaaniw,oniijaaniw,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/oniijaaniw-na
-moozonagizh,moozonagizhy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/moozonagizh-ni
+moozonagizh,moozonagizhy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/moozonagizh-ni
 naabem,naabem,NAD,NAD_C,NONE,https://ojibwe.lib.umn.edu/main-entry/naabem-nad
 jiimaaniigino-jiimaan,jiimaaniigino-jiimaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/jiimaaniigino-jiimaan-ni
 ikwe-biizikigan,ikwe-biizikigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ikwe-biizikigan-ni
@@ -1560,8 +1561,8 @@ jiibaakwe-gizhaabikizigan,jiibaakwe-gizhaabikizigan,NI,NI_C,NONE,https://ojibwe.
 zhaangasoobii'igan,zhaangasoobii'igan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhaangasoobii-igan-na
 wiinzhinaa,wiinzhinaaw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/wiinzhinaa-na
 miijimikanjigan,miijimikanjigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/miijimikanjigan-ni
-zhingwaak,zhingwaakw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/zhingwaak-na
 zhingwaak,zhingwaakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/zhingwaak-na
+zhingwaak,zhingwaakw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/zhingwaak-na
 awan,awanw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/awan-ni
 noozhek,noozhekw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/noozhek-na
 namepin,namepin,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/namepin-na
@@ -1592,7 +1593,7 @@ giziibiigiingwewinaagan,giziibiigiingwewinaagan,NI,NI_C,NONE,https://ojibwe.lib.
 zagaskwaajime,zagaskwaajimew2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/zagaskwaajime-na
 zegibanaanishiinh,zegibanaanishiinhy1,NA,NA_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/zegibanaanishiinh-na
 waabigwani-giizis,waabigwani-giizisw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/waabigwani-giizis-na
-ode'iminaganzh,ode'iminaganzhy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ode-iminaganzh-ni
+ode'iminaganzh,ode'iminaganzhy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/ode-iminaganzh-ni
 gizhaatewin,gizhaatewin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gizhaatewin-ni
 ojijaak,ojijaakw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/ojijaak-na
 bibooni-makizin,bibooni-makizin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bibooni-makizin-ni
@@ -1703,7 +1704,7 @@ naabezhashk,naabezhashkw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/na
 doodooshaaboo,doodooshaaboow2,NI,NI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/doodooshaaboo-ni
 waakaa'igan,waakaa'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/waakaa-igan-ni
 obiimiskodisii,obiimiskodisiiw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/obiimiskodisii-na
-bakwanj,bakwanjy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bakwanj-ni
+bakwanj,bakwanjy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/bakwanj-ni
 ininishib,ininishib,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ininishib-na
 binaakwe'igan,binaakwe'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/binaakwe-igan-ni
 giziibiiga'igani-biiwaabik,giziibiiga'igani-biiwaabikw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/giziibiiga-igani-biiwaabik-ni
@@ -1859,8 +1860,8 @@ mitigwakizin,mitigwakizin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mit
 aandaabikijigan,aandaabikijigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/aandaabikijigan-ni
 ozaawaakizigan,ozaawaakizigan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ozaawaakizigan-na
 dabasajiw,dabasajiw,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/dabasajiw-ni
-nigig,nigigw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/nigig-na
 nigig,nigigw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/nigig-na
+nigig,nigigw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/nigig-na
 zhingwaako-bigiw,zhingwaako-bigiw,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhingwaako-bigiw-ni
 animosh,animosh,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/animosh-na
 amikozid,amikozid,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/amikozid-ni
@@ -1919,7 +1920,7 @@ wiish,wiish,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wiish-ni
 mandaaminashk,mandaaminashk,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mandaaminashk-na
 bebezhigooganzhii,bebezhigooganzhiiw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bebezhigooganzhii-na
 ozikaasi,ozikaasiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/ozikaasi-na
-ishkweninj,ishkweninjy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ishkweninj-ni
+ishkweninj,ishkweninjy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/ishkweninj-ni
 gishkishenh,gishkishenhy1,NA,NA_VVny,NONE,https://ojibwe.lib.umn.edu/main-entry/gishkishenh-na
 giishkigaade-giboodiyegwaazon,giishkigaade-giboodiyegwaazon,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/giishkigaade-giboodiyegwaazon-ni
 nitiiwinaagaans,nitiiwinaagaans,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/nitiiwinaagaans-ni
@@ -2055,7 +2056,7 @@ zhooniyaa-mazina'igan,zhooniyaa-mazina'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.
 odoondanegwaajigan,odoondanegwaajigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/odoondanegwaajigan-ni
 zhimaagan,zhimaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhimaagan-ni
 ojibwewinini,ojibwewininiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/ojibwewinini-na
-giishkiboojiganeyaab,giishkiboojiganeyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/giishkiboojiganeyaab-ni
+giishkiboojiganeyaab,giishkiboojiganeyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/giishkiboojiganeyaab-ni
 bisigadanaaboo,bisigadanaaboow2,NI,NI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bisigadanaaboo-ni
 noozhe-ojiig,noozhe-ojiig,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/noozhe-ojiig-na
 ozaawakik,ozaawakikw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/ozaawakik-na
@@ -2183,7 +2184,7 @@ migiskaneyaab,migiskaneyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entr
 bimiwizhiwewigamig,bimiwizhiwewigamigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bimiwizhiwewigamig-ni
 niisinigan,niisinigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/niisinigan-ni
 giziingwe'onens,giziingwe'onens,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/giziingwe-onens-ni
-ashkimaneyaab,ashkimaneyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ashkimaneyaab-ni
+ashkimaneyaab,ashkimaneyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/ashkimaneyaab-ni
 gashkibidaagan,gashkibidaagan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gashkibidaagan-na
 odaabii'iwewinini,odaabii'iwewininiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/odaabii-iwewinini-na
 wiizhaandiwi-niimi'idiwin,wiizhaandiwi-niimi'idiwin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wiizhaandiwi-niimi-idiwin-ni
@@ -2228,7 +2229,7 @@ wazhashkwayaan,wazhashkwayaan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry
 moozokon,moozokon,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/moozokon-ni
 aniibiishibag,aniibiishibagw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/aniibiishibag-ni
 gizhinis,gizhinis,NAD,NAD_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gizhinis-nad
-naawininj,naawininjy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/naawininj-ni
+naawininj,naawininjy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/naawininj-ni
 waawaashkeshiwikana,waawaashkeshiwikan,NI,NI_Kana,NONE,https://ojibwe.lib.umn.edu/main-entry/waawaashkeshiwikana-ni
 mashkiig,mashkiigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkiig-ni
 miigiwewin,miigiwewin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/miigiwewin-ni
@@ -2252,7 +2253,7 @@ jiisakaan,jiisakaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/jiisakaan
 aanakwad,aanakwadw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/aanakwad-ni
 wiijiiwaagan,wiijiiwaagan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wiijiiwaagan-na
 giziibiiga'igewin,giziibiiga'igewin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/giziibiiga-igewin-ni
-manoominaganzh,manoominaganzhy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/manoominaganzh-ni
+manoominaganzh,manoominaganzhy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/manoominaganzh-ni
 maanataan,maanataan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/maanataan-na
 mitigwaabaak,mitigwaabaakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/mitigwaabaak-na
 shimis,shimis,NAD,NAD_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gishimis-nad
@@ -2403,7 +2404,7 @@ bibooni-miikana,bibooni-miikan,NI,NI_Kana,NONE,https://ojibwe.lib.umn.edu/main-e
 gidashkibidewaabik,gidashkibidewaabikw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/gidashkibidewaabik-ni
 baaginewaatig,baaginewaatigw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/baaginewaatig-na
 biigijiisag,biigijiisagw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/biigijiisag-ni
-midechininj,midechininjy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/midechininj-ni
+midechininj,midechininjy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/midechininj-ni
 webaasinjigan,webaasinjigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/webaasinjigan-ni
 maada'igan,maada'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/maada-igan-ni
 oninjii-baashkizigan,oninjii-baashkizigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/oninjii-baashkizigan-ni
@@ -2548,7 +2549,7 @@ ashigan,ashigan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ashigan-na
 baakwaanaatig,baakwaanaatigw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/baakwaanaatig-na
 namanjinik,namanjinik,NI,NI_aa,NONE,https://ojibwe.lib.umn.edu/main-entry/namanjinik-ni
 gookooshiwi-wiiyaas,gookooshiwi-wiiyaas,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gookooshiwi-wiiyaas-ni
-ataagib,ataagiby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/ataagib-ni
+ataagib,ataagiby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ataagib-ni
 manoomini-mashkimod,manoomini-mashkimod,NI,NI_aa,NONE,https://ojibwe.lib.umn.edu/main-entry/manoomini-mashkimod-ni
 gichi-aniibiish,gichi-aniibiish,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gichi-aniibiish-ni
 anishinaabe-wiinzowin,anishinaabe-wiinzowin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/anishinaabe-wiinzowin-ni
@@ -2587,7 +2588,7 @@ ningaasimoo-jiimaan,ningaasimoo-jiimaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/
 apizideshinowin,apizideshinowin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/apizideshinowin-ni
 aanike-ogimaa,aanike-ogimaaw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aanike-ogimaa-na
 adaawewigamig,adaawewigamigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/adaawewigamig-ni
-binewidis,binewidisy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/binewidis-ni
+binewidis,binewidisy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/binewidis-ni
 gwaaba'aawangwaan,gwaaba'aawangwaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gwaaba-aawangwaan-ni
 name,namew2,NA,NA_VVw,NONE,https://ojibwe.lib.umn.edu/main-entry/name-na
 asigibii'igewinini,asigibii'igewininiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/asigibii-igewinini-na
@@ -2628,7 +2629,7 @@ gaandakii'igan,gaandakii'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry
 waagaakwadwaatig,waagaakwadwaatigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/waagaakwadwaatig-ni
 mimigosaga'igan,mimigosaga'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mimigosaga-igan-ni
 midaasoobii'igan,midaasoobii'igan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/midaasoobii-igan-na
-mitigwaab,mitigwaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mitigwaab-ni
+mitigwaab,mitigwaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/mitigwaab-ni
 aazhawa'oojigan,aazhawa'oojigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/aazhawa-oojigan-ni
 giingoo,giingooy1,NA,NA_VVy,NONE,https://ojibwe.lib.umn.edu/main-entry/giingoo-na
 mitigo-desabiwin,mitigo-desabiwin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mitigo-desabiwin-ni
@@ -2659,7 +2660,7 @@ moona'aabikwesi,moona'aabikwesiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-
 asemaa,asemaaw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/asemaa-na
 noojigiigoonyiwe-mazina'igaans,noojigiigoonyiwe-mazina'igaans,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/noojigiigoonyiwe-mazina-igaans-ni
 zhiibaayaabanjigan,zhiibaayaabanjigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhiibaayaabanjigan-ni
-dibaabiiginiganeyaab,dibaabiiginiganeyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/dibaabiiginiganeyaab-ni
+dibaabiiginiganeyaab,dibaabiiginiganeyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/dibaabiiginiganeyaab-ni
 ziikaa,ziikaaw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/ziikaa-na
 makominagaawanzh,makominagaawanzhy2,NA,NA_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/makominagaawanzh-na
 ozaawi-miigwan,ozaawi-miigwan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ozaawi-miigwan-na
@@ -2708,7 +2709,7 @@ ozhibii'iganaak,ozhibii'iganaakw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-
 nagway,nagway,NID,NID_aa,NONE,https://ojibwe.lib.umn.edu/main-entry/onagway-nid
 noobaajigaans,noobaajigaans,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/noobaajigaans-ni
 bikwaakwado-ziinzibaakwad,bikwaakwado-ziinzibaakwadw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bikwaakwado-ziinzibaakwad-ni
-odaabaaneyaab,odaabaaneyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/odaabaaneyaab-ni
+odaabaaneyaab,odaabaaneyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/odaabaaneyaab-ni
 ishkode,ishkodew2,NI,NI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/ishkode-ni
 asasawemini-baashkiminasigan,asasawemini-baashkiminasigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/asasawemini-baashkiminasigan-ni
 giiwosewinini,giiwosewininiw2,NA,NA_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/giiwosewinini-na
@@ -2935,7 +2936,7 @@ giziibiiga'iganaaboo,giziibiiga'iganaaboow2,NI,NI_VV,NONE,https://ojibwe.lib.umn
 biindaabikibijigan,biindaabikibijigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biindaabikibijigan-ni
 oojii,oojiiw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/oojii-na
 amikokana,amikokan,NI,NI_Kana,NONE,https://ojibwe.lib.umn.edu/main-entry/amikokana-ni
-nagwaaganeyaab,nagwaaganeyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/nagwaaganeyaab-ni
+nagwaaganeyaab,nagwaaganeyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/nagwaaganeyaab-ni
 jiibaakwewigamig,jiibaakwewigamigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/jiibaakwewigamig-ni
 nitaminikaazowin,nitaminikaazowin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/nitaminikaazowin-ni
 babig,babigw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/babig-na
@@ -3047,8 +3048,8 @@ zhaangweshiwi-wiiyaakwa'igan,zhaangweshiwi-wiiyaakwa'igan,NI,NI_C,NONE,https://o
 zhooniyaa,zhooniyaaw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/zhooniyaa-na
 mimigoshkamwaagan,mimigoshkamwaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mimigoshkamwaagan-ni
 jiibaakwaanakik,jiibaakwaanakikw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/jiibaakwaanakik-na
-odaabaanaak,odaabaanaakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/odaabaanaak-na
 odaabaanaak,odaabaanaakw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/odaabaanaak-na
+odaabaanaak,odaabaanaakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/odaabaanaak-na
 gichi-doodooshaabo,gichi-doodooshaabow2,NI,NI_Vw,NONE,https://ojibwe.lib.umn.edu/main-entry/gichi-doodooshaabo-ni
 gikinoo'amawaagan,gikinoo'amawaagan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gikinoo-amawaagan-na
 mimigwaabika'igan,mimigwaabika'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mimigwaabika-igan-ni
@@ -3069,7 +3070,7 @@ aanak,aanakw2,NA,NA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/aanak-na
 oshkaya'aa,oshkaya'aaw2,NA,NA_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/oshkaya-aa-na
 webiniwewin,webiniwewin,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/webiniwewin-ni
 bizhikiwi-wiiyaas,bizhikiwi-wiiyaas,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bizhikiwi-wiiyaas-ni
-manoominagaawanzh,manoominagaawanzhy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/manoominagaawanzh-ni
+manoominagaawanzh,manoominagaawanzhy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/manoominagaawanzh-ni
 ajidamoo-nagwaagan,ajidamoo-nagwaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ajidamoo-nagwaagan-ni
 gayaashkogwan,gayaashkogwan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gayaashkogwan-na
 badakibine'on,badakibine'on,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/badakibine-on-na
@@ -3144,7 +3145,7 @@ na'aangish,na'aangish,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/na-aang
 gidigw,gidigw2,NID,NID_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/gidigw-nid
 zesegaandago-bigiw,zesegaandago-bigiw,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zesegaandago-bigiw-ni
 wiigiwaamaak,wiigiwaamaakw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/wiigiwaamaak-ni
-bimibidewi-giishkiboojiganeyaab,bimibidewi-giishkiboojiganeyaaby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bimibidewi-giishkiboojiganeyaab-ni
+bimibidewi-giishkiboojiganeyaab,bimibidewi-giishkiboojiganeyaaby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/bimibidewi-giishkiboojiganeyaab-ni
 waazakonenjiganaatig,waazakonenjiganaatigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/waazakonenjiganaatig-ni
 ashishawe-zisiboojiganens,ashishawe-zisiboojiganens,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ashashawe-zisiboojigan-ni
 makadewamik,makadewamikw2,NA,NA_irrCw,NONE,https://ojibwe.lib.umn.edu/main-entry/makadewamik-na
@@ -3152,7 +3153,7 @@ asigobaan,asigobaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/asigobaan
 asemaawinaagan,asemaawinaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/asemaawinaagan-ni
 gikaawigamig,gikaawigamigw2,NI,NI_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/gikaawigamig-ni
 wiimbinaagan,wiimbinaagan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wiimbinaagan-ni
-mashkiigiminaganzh,mashkiigiminaganzhy,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkiigiminaganzh-ni
+mashkiigiminaganzh,mashkiigiminaganzhy2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkiigiminaganzh-ni
 zaasakokwaan,zaasakokwaan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zaasakokwaan-na
 mazinibii'igan,mazinibii'igan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mazinibii-igan-ni
 zhaabowebinigan,zhaabowebinigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhaabowebinigan-ni
@@ -3219,7 +3220,7 @@ biitoo-babagiwayaan,biitoo-babagiwayaan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/
 baashkizigan,baashkizigan,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/baashkizigan-ni
 miskomin,miskomin,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/miskomin-na
 eshkan,eshkan,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/eshkan-na
-wiiyaasi-naboob,wiiyaasi-nabooby2,NI,NI_Cy,NONE,https://ojibwe.lib.umn.edu/main-entry/wiiyaasi-naboob-ni
+wiiyaasi-naboob,wiiyaasi-nabooby,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/wiiyaasi-naboob-ni
 giigoozens,giigoozens,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/giigoozens-na
 zhingibis,zhingibis,NA,NA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/zhingibis-na
 midaas,midaas,NI,NI_C,NONE,https://ojibwe.lib.umn.edu/main-entry/midaas-ni
