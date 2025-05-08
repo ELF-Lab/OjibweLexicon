@@ -4,7 +4,7 @@ NI,NI_ShortCy,ni,NONE,^.*(gichigami|azhashki|aki|mini|abwi|bingwi|nibi|minisi|an
 NI,NI_ShortC,ni,NONE,^.*(mishi|misan)$,pl,NONE,loc,NONE
 NA,NA_ShortCw,na,NONE,^.*(makwa|ikwa)$,pl,NONE,loc,NONE
 NA,NA_ShortC,na,NONE,^.*nika$,pl,NONE,loc,NONE
-NA,NA_Cy,na,^.*[bcdfghjklmnpstwyz']y$,NONE,pl,NONE,loc,^.*iing
+NA,NA_Cy,na,^.*[bcdfghjklmnpstwyz']y$,NONE,pl,NONE,pl,^.*iig
 NA,NA_VVny,na,^.*nh?y$,NONE,pl,NONE,loc,NONE
 NA,NA_VVw,na,^.*(aa|ii|oo|e)w$,NONE,pl,^.*wag$,loc,NONE
 NA,NA_VV,na,^.*(aa|ii|oo|e)w?$,NONE,pl,NONE,loc,NONE
