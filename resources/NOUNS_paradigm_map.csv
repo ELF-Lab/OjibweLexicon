@@ -13,7 +13,7 @@ NA,NA_Vw,na,^.*[^ioua][ioua]w$,^.*[^ioua][ioua]$,pl,NONE,loc,NONE
 NA,NA_irrCw,na,^.*[bcdfghjklmnpstwyz']w$,NONE,pl,^.*wag$,loc,NONE
 NA,NA_Cw,na,^.*[bcdfghjklmnpstwyz']w$,NONE,pl,NONE,loc,NONE
 NA,NA_C,na,^.*[bcdfghjklmnpstwyz']$,NONE,pl,NONE,loc,NONE
-NI,NI_aa,ni,^.*[bcdfghjklmnpstwyz']$,NONE,pl,NONE,loc,^.*aang$
+NI,NI_aa,ni,^.*[bcdfghjklmnpstwyz']$,^.*[bcdfghjklmnpstwyz']$,pl,NONE,loc,^.*aang$
 NI,NI_Cy,ni,^.*[bcdfghjklmnpstwyz']y$,NONE,pl,NONE,pl,^.*iin
 NI,NI_VVny,ni,^.*nh?y$,NONE,pl,NONE,loc,NONE
 NI,NI_VV,ni,^.*(aa|ii|oo|e)w?$,NONE,pl,NONE,loc,NONE
