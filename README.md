@@ -9,9 +9,13 @@ To cite this work or the contents of the repository in an academic work, please 
 > [Hammerly, C., Livesay, N., Arppe A., Stacey, A., & Silfverberg, M. (Submitted) OjibweMorph: An approachable morphological parser for Ojibwe](https://christopherhammerly.com/publication/ojibwemorph/OjibweMorph.pdf)
 
 ### Inflectional class mappings (`resources/`)
-The data from the [Ojibwe People's Dictionary (OPD)](https://ojibwe.lib.umn.edu) (stored in `OPD/` in this repo) has had its part of speech (POS) tags (e.g., *vta*) converted into inflectional classes (e.g., *VTA_s*) used in the paradigm spreadsheets in [OjibweMorph](https://github.com/ELF-Lab/OjibweMorph/) (in the XSpreadsheets subdirectories).
+*Paradigm* refers to a categorization of words in Ojibwe more specific than *part of speech* (e.g., verbs, nouns, etc.) -- for example, the paradigm `VAI` refers to **v**erbs that are **a**nimate and **i**ntransitive.  A full list of paradigms is available in the XSpreadsheets/ subdirectories of [OjibweMorph](https://github.com/ELF-Lab/OjibweMorph/).  Inflectional *class* provides further categorization within each paradigm.  For example, `VAI_m` forms are VAI words whose stem ends in *m*, while `VAI_n` forms are VAI words whose stem ends in *n*.  Inflectional classes are important because they determine the endings that lexemes take when inflected.
 
-The mappings between the two systems are realized by CSV files, located here in the `resources/` directory.  As an example, here is [the mapping](https://github.com/ELF-Lab/OjibweLexicon/blob/main/resources/VERBS_paradigm_map.csv) which translates OPD POS tags to inflectional classes for verbs for the Border Lakes Ojibwe FST:
+In order to get data from the [Ojibwe People's Dictionary (OPD)](https://ojibwe.lib.umn.edu) into the expected form for use in the FST, we had to convert to our labels for paradigm and class.  To do so, we look at the OPD categorization, stem, and lemma of a given lexeme, and use that information to determine its paradigm and class.
+
+To perform this classification, we use **paradigm maps** implemented as CSV files (located in the `resources/` directory here).  There is one map file for each part of speech. Each row in the paradigm map corresponds to a single inflectional class.  For each OPD lexeme, we go row-by-row through the paradigm map. We find the *first* row where all tests pass, categorizing the lexeme into the class (and paradigm) specified by that row.
+
+As an example, here is the paradigm map for verbs:
 
 ```
 Paradigm,Class,OPDClass,StemPattern,LemmaPattern
@@ -45,26 +49,30 @@ VTI,VTI_oo,vti2,NONE,^.*oon$
 VTI,VTI_aa,vti4,NONE,^.*aan$
 ```
 
-Each row defines a test which determines the inflectional class. The test is based on matching the OPD POS tag, and matching the lemma/stem with the given regular expresion.
-
 The columns are as follows:
-1. The intended paradigm (more general than the class)
-1. The intended inflectional class in the paradigm spreadsheets
-2. The OPD POS tag in the original scraped data
-3. The regular expression pattern the stem must match (if `NONE`, any stem passes)
-4. The regular expression pattern the lemma must match (if `NONE`, any lemma passes)
+- **Paradigm**: the paradigm (more general than the class; typically several rows per paradigm).
+- **Class**: the class that this row uniquely identifies.
+- **OPDClass**: the category assigned to lexemes of this class by the OPD. The lexeme's OPD category must match to pass all tests for this row.
+- **StemPattern**: the regular expression pattern that identifies stems of this class.  The lexeme's stem must match to pass all tests for this row.  If `NONE`, any stem passes.
+- **LemmaPattern**: the regular expression pattern that identifies lemmas of this class.  The lexeme's lemma must match to pass all tests for this row.  If `NONE`, any lemma passes.
 
-Each test is run in order (i.e., from *VAI_rcp* to *VTI_aa*) until a matching one is found.
-
-E.g. consider the row (lemma,stem,POS):
-```
-abaabas,abaabasw,vta,
-```
-The inflectional class will be *VTA_Cw* because this lexeme matches the test:
+As an illustrative example, consider the verb lexeme with lemma *abaabas*, stem *abaabasw*, and OPD category `vta`.  
+The inflectional class will be `VTA_Cw` because the lexeme matches this row's tests:
 ```
 VTA,VTA_Cw,vta,^.*[bcdfghjklmnpstwz']w$,NONE
 ```
-because the POS is *vta* and the stem matches the regular expression `^.*[bcdfghjklmnpstwz']w$`.  No previous rows match, so this class is assigned.
+... because the OPD category is `vta` and the stem matches the regular expression `^.*[bcdfghjklmnpstwz']w$` (and the lemma matches `NONE`, like all lemmas).  No previous rows match, so this class is assigned.
+
+Some parts of speech require more information to be categorized.  For example, for nouns, we may also need to examine the plural or locative form to determine the inflectional class.  In this case, extra columns are used, adding to the tests that a lexeme must pass to match with a particular row:
+- **Tag1** (and Tag2, Tag3, ...): the OPD label for identifying the form that must match the regex in Tag1Pattern.  `NONE` or missing if there is no such test.
+- **Tag1Pattern** (and Tag2Pattern, Tag3Pattern, ...): the regex pattern that identifies inflected forms as specified by Tag1 of this class.  `NONE` or missing if there is no such test.
+
+For example, here's a row from the paradigm map for nouns:
+```
+Paradigm,Class,OPDClass,StemPattern,LemmaPattern,Tag1,Tag1Pattern,Tag2,Tag2Pattern
+NA,NA_VVw,na,^.*(aa|ii|oo|e)w$,NONE,pl,^.*wag$,loc,NONE
+```
+This means that to be categorized as the class `NA_VVw`, the plural (`pl`) form of this lexeme must match the regex `^.*wag$`, while there are no requirements for the locative (`loc`) form.
 
 ### Lexical data to exclude (`other/`)
 This CSV specifies forms in the lemma spreadsheets that should *not* be included in the FST.  Each row specifies one form or group of forms.  The following information must be specified for each row:
