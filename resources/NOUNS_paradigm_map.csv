@@ -30,6 +30,7 @@ NAD,NAD_Vw,nad,^.*[^ioua][ioua]w$,NONE,pl,NONE,loc,NONE
 NAD,NAD_Cw,nad,^.*[bcdfghjklmnpstwyz']w$,NONE,pl,NONE,loc,NONE
 NAD,NAD_Cy,nad,^.*[bcdfghjklmnpstwyz']y$,NONE,pl,NONE,loc,NONE
 NAD,NAD_C,nad,^.*[bcdfghjklmnpstwyz']$,NONE,pl,NONE,loc,NONE
+NID,NID_aa,nid,NONE,^.*(zow|zhigwan|kwegan)$,pl,NONE,loc,NONE
 NID,NID_aa,nid,^.*[bcdfghjklmnpstwyz']$,NONE,pl,NONE,loc,^.*aang$
 NID,NID_Cw,nid,^.*[bcdfghjklmnpstwyz']w$,NONE,pl,NONE,loc,NONE
 NID,NID_Cy,nid,^.*[bcdfghjklmnpstwyz']y$,NONE,pl,NONE,loc,NONE
