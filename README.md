@@ -6,7 +6,7 @@ This repository houses public-facing lexical items for the OjibweMorph FST, incl
 
 To cite this work or the contents of the repository in an academic work, please use the following:
 
-> [Hammerly, C., Livesay, N., Arppe A., Stacey, A., & Silfverberg, M. (Submitted) OjibweMorph: An approachable morphological parser for Ojibwe](https://christopherhammerly.com/publication/ojibwemorph/OjibweMorph.pdf)
+> [Hammerly, C., Livesay, N., Arppe A., Stacey, A., & Silfverberg, M. (2026) OjibweMorph: An approachable morphological parser for Ojibwe (and beyond)]([https://christopherhammerly.com/publication/ojibwemorph/OjibweMorph.pdf](https://link.springer.com/article/10.1007/s10579-025-09887-4))
 
 ### Inflectional class mappings (`resources/`)
 *Paradigm* refers to a categorization of words in Ojibwe more specific than *part of speech* (e.g., verbs, nouns, etc.) -- for example, the paradigm `VAI` refers to **v**erbs that are **a**nimate and **i**ntransitive.  A full list of paradigms is available in the XSpreadsheets/ subdirectories of [OjibweMorph](https://github.com/ELF-Lab/OjibweMorph/).  Inflectional *class* provides further categorization within each paradigm.  For example, `VAI_m` forms are VAI words whose stem ends in *m*, while `VAI_n` forms are VAI words whose stem ends in *n*.  Inflectional classes are important because they determine the endings that lexemes take when inflected.
