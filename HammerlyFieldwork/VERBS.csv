@@ -94,7 +94,7 @@ apiitangizo,apiitangizo,VAI,VAI_V,s/he is a certain time,OPD-Sentences
 apiitangim,apiitangim,VTA,VTA_C,set a price so high on h/,OPD-Sentences
 apiitwewe,apiitwewe,VII,VII_VV,it has a certain intensity of sound,OPD-Sentences
 ipogo,ipogo,VII,VII_V,it has a certain taste,OPD-Sentences
-ayizhii,ayizhii,VAI,VAI_VV,s/he has a certain style,OPD-Sentences
+eyizhii,eyizhii,VAI,VAI_VV,s/he has a certain style,OPD-Sentences
 bagamisin,bagamisin,VII,VII_,NONE,OPD-Sentences
 wiinjigaade,wiinjigaade,VII,VII_VV,it is explained by someone,OPD-Sentences
 izhichigaazh,izhichigaan1,VTA,VTA_n,make h/ a certain way,OPD-Sentences
@@ -162,3 +162,52 @@ giiyoodam,giiyoodam,VTA,VTA_C,go away to visit h/,OPD-Sentences
 biindaabikiwebinigaade,biindaabikiwebinigaade,VII,VII_VV,it is thrown into the oven,OPD-Sentences
 mitanokii,mitanokii,VAI,VAI_VV,s/he is laboring,OPD-Sentences
 waasishin,waasishin,VII,VII_n,it lies there shiny,OPD-Sentences
+wiisakwe,wiisakwe,VII,VII_VV,it has a shrill sound,OPD-Sentences
+aabewaanimad,aabewaanimad,VII,VII_d,it (the wind) dies down,OPD-Sentences
+waakaagwa'wi,waakaagwa'w1,VTA,VTA_Cw,sew all around h/,OPD-Sentences
+gagwaajiiwaazh,gagwaajiiwaan1,VTA,VTA_n,wrestle h/,OPD-Sentences
+gibwaasin,gibwaasin,VII,VII_n,it lies in the way,OPD-Sentences
+gagotaamigwad,gagotaamigwad,VII,VII_d,it is an extremely bad storm (reduplicated),OPD-Sentences
+nibiishkaa,nibiishkaa,VII,VII_VV,it is really oozy,OPD-Sentences
+onishkaabagizo,onishkaabagizo,VAI,VAI_V,s/he gets up quickly,OPD-Sentences
+bakada'igaagen,bakada'igaage,VAIO,VAIO,s/he cuts with it,OPD-Sentences
+bakizh,bakin1,VTA,VTA_n,pull h/ up,OPD-Sentences
+dagwapikaazon,dagwapikaazo,VAIO,VAIO,s/he wears something in h/ braids,OPD-Sentences
+gibishe'on,gibishe'o,VAIO,VAIO,s/he plugs or covers h/ ear(s),OPD-Sentences
+giizhoowaabikizwi,giizhoowaabikizw1,VTA,VTA_Cw,warm h/ up,OPD-Sentences
+bagamibagizo,bagamibagizo,VAI,VAI_V,s/he is almost there,OPD-Sentences
+ondaazhinden,ondaazhinden,VTA,VTA_C,get h/ out,OPD-Sentences
+aabitawin,aabitawin,VTA,VTA_C,take h/ (by hand),OPD-Sentences
+aayaazhawishkaa,aayaazhawishkaa,VAI,VAI_VV,s/he crosses (reduplicated),OPD-Sentences
+andon,andon,VTA,VTA_C,feel for h/ by hand,OPD-Sentences
+apagijige',apagijige',VTA,VTA_C,pitch to h/,OPD-Sentences
+asigisijigaade,asigisijigaade,VII,VII_VV,it is assembled,OPD-Sentences
+gaakaadoo,gaakaadoo,VAI,VAI_VV,s/he hides (something),OPD-Sentences
+gaazhipoose,gaazhipoose,VII,VII_VV,it is so far past,OPD-Sentences
+gawanaandamo',gawanaandamo',VTA,VTA_C,starve h/,OPD-Sentences
+giikibii'ige,giikibii'ige,VAI,VAI_VV,s/he makes false entries,OPD-Sentences
+gizhaadige',gizhaadige',VTA,VTA_C,make h/ gaurd,OPD-Sentences
+maajiikigaade,maajiikigaade,VII,VII_VV,it was started (by someone),OPD-Sentences
+mamaanjigobizh,mamaanjigobin1,VTA,VTA_n,tie h/ up,OPD-Sentences
+miiwanokii,miiwanokii,VAI,VAI_VV,s/he can't stand working,OPD-Sentences
+mimigoshkigaade,mimigoshkigaade,VII,VII_VV,it is threshed,OPD-Sentences
+mooshkinebide,mooshkinebide,VII,VII_VV,it (light) fills the room,OPD-Sentences
+nabanetigweyaa,nabanetigweyaa,VII,VII_VV,it is flowing lopsided,OPD-Sentences
+nanaabidoo'ige,nanaabidoo'ige,VAI,VAI_VV,NONE,OPD-Sentences
+niminaadagaako,niminaadagaako,VAI,VAI_V,s/he goes out on the ice,OPD-Sentences
+niminaawewibijigaade,niminaawewibijigaade,VII,VII_VV,it is pushed out,OPD-Sentences
+jaagaaboojige,jaagaaboojige,VAI,VAI_VV,s/he spent it all,OPD-Sentences
+wiisiniwadaawe,wiisiniwadaawe,VAI,VAI_VV,s/he goes grocery shopping,OPD-Sentences
+baataashkine,baataashkine,VAI,VAI_VV,s/he is stuck,OPD-Sentences
+badakijigaazo,badakijigaazo,VAI,VAI_V,s/he is stood up,OPD-Sentences
+zhaagitan,zhaagit,VTI,VTI_am,hear it,OPD-Sentences
+biibiiyensiwi,biibiiyensiwi,VAI,VAI_V,s/he is a baby,OPD-Sentences
+biidagoojin,biidagoojin,VAI,VAI_n,s/he falls through the sky,OPD-Sentences
+bimaaboojige,bimaaboojige,VAI,VAI_VV,NONE,OPD-Sentences
+binakii'igaade,binakii'igaade,VII,VII_VV,NONE,OPD-Sentences
+zhaabwaakizigaade,zhaabwaakizigaade,VII,VII_VV,NONE,OPD-Sentences
+zhiigosin,zhiigosin,VII,VII_n,NONE,OPD-Sentences
+zinogwaabiigisin,zinogwaabiigisin,VII,VII_n,NONE,OPD-Sentences
+dazhwegiwebinige,dazhwegiwebinige,VAI,VAI_VV,NONE,OPD-Sentences
+wanadaawen,wanadaawe,VAIO,VAIO,s/he buys the wrong thing,OPD-Sentences
+ayaawin,ayaawi,VAIO,VAIO,s/he lives somewhere,OPD-Sentences
