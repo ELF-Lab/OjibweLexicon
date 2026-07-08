@@ -20,7 +20,7 @@ aabidaasakone,aabidaasakone,VAI,VAI_VV,NONE,UnpublishedOPD
 aabidanokii,aabidanokii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aabidanokii-vai
 aabaabika'iganike,aabaabika'iganike,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aabaabika-iganike-vai
 aabide,aabide,VII,VII_VV,NONE,UnpublishedOPD
-aabidendam,aabidendam,VAI,VAI_am,NONE,UnpublishedOPD
+aabidendam,aabidend,VAI,VAI_am,NONE,UnpublishedOPD
 aabaabika'ige,aabaabika'ige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aabaabika-ige-vai
 aabidose,aabidose,VAI,VAI_VV,NONE,UnpublishedOPD
 aabaabika'wi,aabaabika'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
@@ -214,7 +214,7 @@ aabiziingwashi,aabiziingwashi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-ent
 aabooshkanjise,aabooshkanjise,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aabooshkanjise-vii
 aaboozikaa,aaboozikaa,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aaboozikaa-vai
 aabiziishim,aabiziishim,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/aabiziishim-vta
-aabiziiwendam,aabiziiwendam,VAI,VAI_am,NONE,UnpublishedOPD
+aabiziiwendam,aabiziiwend,VAI,VAI_am,NONE,UnpublishedOPD
 aabiziiyaabaawazh,aabiziiyaabaawan1,VTA,VTA_n,NONE,UnpublishedOPD
 aaboozikaa,aaboozikaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aaboozikaa-vii
 aabiziiyaabaawe,aabiziiyaabaawe,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -270,7 +270,7 @@ aaboojibizh,aaboojibin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/aab
 aagishkaa,aagishkaa,VAI,VAI_VV,NONE,UnpublishedOPD
 aadaako'an,aadaako',VTI,VTI_am,NONE,UnpublishedOPD
 aagishkaa,aagishkaa,VII,VII_VV,NONE,UnpublishedOPD
-aagonetam,aagonetam,VAI,VAI_am,NONE,UnpublishedOPD
+aagonetam,aagonet,VAI,VAI_am,NONE,UnpublishedOPD
 aaboojigwaadan,aaboojigwaad,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/aaboojigwaadan-vti
 aadaakojin,aadaakojin,VAI,VAI_n,NONE,UnpublishedOPD
 aagonetaw,aagonetaw,VTA,VTA_aw,NONE,UnpublishedOPD
@@ -302,7 +302,7 @@ aaboojiiginan,aaboojiigin,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/
 aagoo'an,aagoo',VTI,VTI_am,NONE,UnpublishedOPD
 aadawa'wii,aadawa'wii,VAI,VAI_VV,NONE,UnpublishedOPD
 aagoogaabawi,aagoogaabawi,VAI,VAI_V,NONE,UnpublishedOPD
-aadawaa'am,aadawaa'am,VAI,VAI_am,NONE,UnpublishedOPD
+aadawaa'am,aadawaa',VAI,VAI_am,NONE,UnpublishedOPD
 aagoogoode,aagoogoode,VII,VII_VV,NONE,UnpublishedOPD
 aakomaagozi,aakomaagozi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/aakomaagozi-vai
 aagoogoodoon,aagoogood,VTI,VTI_oo,NONE,UnpublishedOPD
@@ -647,7 +647,7 @@ aanikooshin,aanikooshin,VAI,VAI_n,NONE,https://ojibwe.lib.umn.edu/main-entry/aan
 aanjinikaade,aanjinikaade,VII,VII_VV,NONE,UnpublishedOPD
 aawadaaso,aawadaaso,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/aawadaaso-vai
 aaswaakosidoon,aaswaakosid,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/aaswaakosidoon-vti2
-aankanootam,aankanootam,VAI,VAI_am,NONE,UnpublishedOPD
+aankanootam,aankanoot,VAI,VAI_am,NONE,UnpublishedOPD
 aapiji-wiidigem,aapiji-wiidigem,VTA,VTA_C,NONE,UnpublishedOPD
 aanikoosidoon,aanikoosid,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/aanikoosidoon-vti2
 aaswaakosin,aaswaakosin,VII,VII_n,NONE,https://ojibwe.lib.umn.edu/main-entry/aaswaakosin-vii
@@ -937,7 +937,7 @@ aapida'oozo,aapida'oozo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/aap
 aazhawibizotoon,aazhawibizot,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/aazhawbizotoon-vti2
 aawekaazo,aawekaazo,VAIO,VAIO,NONE,UnpublishedOPD
 aasamakizo,aasamakizo,VAI,VAI_V,NONE,UnpublishedOPD
-aayezhishkam,aayezhishkam,VAI,VAI_am,NONE,UnpublishedOPD
+aayezhishkam,aayezhishk,VAI,VAI_am,NONE,UnpublishedOPD
 aazhawdagokaazh,aazhawdagokaan1,VTA,VTA_n,NONE,UnpublishedOPD
 aapidaabam,aapidaabam,VTA,VTA_C,NONE,UnpublishedOPD
 aateshkan,aateshk,VTI,VTI_am,NONE,UnpublishedOPD
@@ -1074,7 +1074,7 @@ abwebatoo,abwebatoo,VAI,VAI_VV,NONE,UnpublishedOPD
 aazhigijibizo,aazhigijibizo,VAI,VAI_V,NONE,UnpublishedOPD
 abaasandeke,abaasandeke,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/abaasandeke-vai
 aazhawidaabaazh,aazhawidaabaan1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/aazhawidaabaazh-vta
-aayaabidendam,aayaabidendam,VAI,VAI_am,NONE,UnpublishedOPD
+aayaabidendam,aayaabidend,VAI,VAI_am,NONE,UnpublishedOPD
 abwebaye,abwebaye,VAI,VAI_VV,NONE,UnpublishedOPD
 aazhawaabideyaa,aazhawaabideyaa,VII,VII_VV,NONE,UnpublishedOPD
 aazhigijiiginige,aazhigijiiginige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aazhigijiiginige-vai
@@ -1150,7 +1150,7 @@ aazhawijiishka'am,aazhawijiishka',VAI,VAI_am,NONE,UnpublishedOPD
 adimaanikaadan,adimaanikaad,VTI,VTI_am,NONE,UnpublishedOPD
 aatwewag,aatwe,VAIPL,VAIPL_VV,NONE,UnpublishedOPD
 aayaandawadan,aayaandawad,VTI,VTI_am,NONE,UnpublishedOPD
-agaawendam,agaawendam,VAI,VAI_am,NONE,UnpublishedOPD
+agaawendam,agaawend,VAI,VAI_am,NONE,UnpublishedOPD
 aazhigijiweba'an,aazhigijiweba',VTI,VTI_am,NONE,UnpublishedOPD
 adimaanikaazh,adimaanikaan1,VTA,VTA_n,NONE,UnpublishedOPD
 abwenamaw,abwenamaw,VTA,VTA_aw,NONE,UnpublishedOPD
@@ -2084,7 +2084,7 @@ angosidoon,angosid,VTI,VTI_oo,NONE,UnpublishedOPD
 anishinaabe-nagamo,anishinaabe-nagamo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/anishinaabe-nagamo-vai
 andobaabagonige,nandobaabagonige,VAI,VAI_VV,NONE,UnpublishedOPD
 andobaabagonige,andobaabagonige,VAI,VAI_VV,NONE,UnpublishedOPD
-animakwa'amoog,animakwa'=am,VAIPL,VAIPL_am,NONE,UnpublishedOPD
+animakwa'amoog,animakwa'=,VAIPL,VAIPL_am,NONE,UnpublishedOPD
 agoodoon,agood,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/agoodoon-vti2
 akwaabiigitoon,akwaabiigit,VTI,VTI_oo,NONE,UnpublishedOPD
 angosin,angosin,VII,VII_n,NONE,UnpublishedOPD
@@ -3564,7 +3564,7 @@ apiichi-niibin,apiichi-niibin,VII,VII_n,NONE,UnpublishedOPD
 ashamigozi,ashamigozi,VAI,VAI_V,NONE,UnpublishedOPD
 baasikaa,baasikaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/baasikaa-vii
 baakindegwaadan,baakindegwaad,VTI,VTI_am,NONE,UnpublishedOPD
-baapaashkwewidam,baapaashkwewidam,VAI,VAI_am,NONE,UnpublishedOPD
+baapaashkwewidam,baapaashkwewid,VAI,VAI_am,NONE,UnpublishedOPD
 ayaakwaakwadoon,ayaakwaakwad,VIIPL,VIIPL_d,NONE,UnpublishedOPD
 baashkijiisijige,baashkijiisijige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/baashkijiisijige-vai
 babaama'azh,babaama'an1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/babaama-azh-vta
@@ -3737,7 +3737,7 @@ baapaawega'an,baapaawega',VTI,VTI_am,NONE,UnpublishedOPD
 baawitigweyaa,baawitigweyaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/baawitigweyaa-vii
 baashkimaagwad,baashkimaagwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/baashkimaagwad-vii
 ashoodinan,ashoodin,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/ashoodinan-vti
-babiishkwaawendam,babiishkwaawendam,VAI,VAI_am,NONE,UnpublishedOPD
+babiishkwaawendam,babiishkwaawend,VAI,VAI_am,NONE,UnpublishedOPD
 azhenizha'an,azhenizha',VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/azhenizha-an-vti
 azhashkiiwishkige,azhashkiiwishkige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/azhashkiiwishkige-vai
 ayina'azh,ayina'an1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/ayina-azh-vta
@@ -3861,7 +3861,7 @@ babiiskinikeni,babiiskinikeni,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-ent
 ayinaabishin,ayinaabishin,VAI,VAI_n,NONE,UnpublishedOPD
 baasinigo,baasinigo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/baasinigo-vai
 azheshin,azheshin,VAI,VAI_n,NONE,UnpublishedOPD
-babanitam,babanitam,VAI,VAI_am,NONE,UnpublishedOPD
+babanitam,babanit,VAI,VAI_am,NONE,UnpublishedOPD
 babaamaaboode,babaamaaboode,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/babaamaaboode-vii
 baashkinas,baashkinas,VTA,VTA_C,NONE,UnpublishedOPD
 baakaakogwaadan,baakaakogwaad,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/baakaakogwaadan-vti
@@ -4117,8 +4117,8 @@ bagamipon,bagamipo,VII,VII_V,NONE,https://ojibwe.lib.umn.edu/main-entry/bagamipo
 baazagwaakoshim,baazagwaakoshim,VTA,VTA_C,NONE,UnpublishedOPD
 baashkineyaabowate,baashkineyaabowate,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/baashkineyaabowate-vii
 azhewidamaw,azhewidamaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/azhewidamaw-vta
-badagwaawagishkam,badagwaawagishkam,VAI,VAI_am,NONE,UnpublishedOPD
-bagadendam,bagadendam,VAI,VAI_am,NONE,UnpublishedOPD
+badagwaawagishkam,badagwaawagishk,VAI,VAI_am,NONE,UnpublishedOPD
+bagadendam,bagadend,VAI,VAI_am,NONE,UnpublishedOPD
 baapaazagonike,baapaazagonike,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/baapaazagonike-vai
 babiiwibii'ige,babiiwibii'ige,VAI,VAI_VV,NONE,UnpublishedOPD
 baazagwiingwebizh,baazagwiingwebin1,VTA,VTA_n,NONE,UnpublishedOPD
@@ -4448,7 +4448,7 @@ baataanikeshin,baataanikeshin,VAI,VAI_n,NONE,UnpublishedOPD
 baapaagaabika'an,baapaagaabika',VTI,VTI_am,NONE,UnpublishedOPD
 babaamaanakwad,babaamaanakwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/babaamaanakwad-vii
 baashka'aawe,baashka'aawe,VAI,VAI_VV,NONE,UnpublishedOPD
-azheyendam,azheyendam,VAI,VAI_am,NONE,UnpublishedOPD
+azheyendam,azheyend,VAI,VAI_am,NONE,UnpublishedOPD
 baakaakwaasin,baakaakwaasin,VII,VII_n,NONE,UnpublishedOPD
 bagoneyaa,bagoneyaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bagoneyaa-vii
 babaamiwijigaade,babaamiwijigaade,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/babaamiwijigaade-vii
@@ -4608,7 +4608,7 @@ babaamoomaawaso,babaamoomaawaso,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-e
 azhiwaa,azhiwaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/azhiwaa-vii
 babiiziga'o,babiiziga'o,VAI,VAI_V,NONE,UnpublishedOPD
 baashkokozh,baashkokon1,VTA,VTA_n,NONE,UnpublishedOPD
-baakaji-zegendam,baakaji-zegendam,VAI,VAI_am,NONE,UnpublishedOPD
+baakaji-zegendam,baakaji-zegend,VAI,VAI_am,NONE,UnpublishedOPD
 bagoneyaakwaa,bagoneyaakwaa,VII,VII_VV,NONE,UnpublishedOPD
 bagamwewetoo,bagamwewetoo,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bagamwewetoo-vai
 baashkaapi,baashkaapi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/baashkaapi-vai
@@ -4771,7 +4771,7 @@ bagizi,bagizi,VAI,VAI_V,NONE,UnpublishedOPD
 babiikwadaawangisin,babiikwadaawangisin,VII,VII_n,NONE,UnpublishedOPD
 babaamweweganzhiiba'idiwag,babaamweweganzhiiba'idi,VAI,VAI_rcp,NONE,UnpublishedOPD
 bagosaga',bagosaga'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
-baataniinwewidam,baataniinwewidam,VAI,VAI_am,NONE,UnpublishedOPD
+baataniinwewidam,baataniinwewid,VAI,VAI_am,NONE,UnpublishedOPD
 babaamaazhagaamebizo,babaamaazhagaamebizo,VAI,VAI_V,NONE,UnpublishedOPD
 badakamigishim,badakamigishim,VTA,VTA_C,NONE,UnpublishedOPD
 bagizikan,bagizik,VTI,VTI_am,NONE,UnpublishedOPD
@@ -4817,7 +4817,7 @@ bagaskimisade',bagaskimisade'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-
 bajiishkizh,bajiishkizhw1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bajiishkizh-vta
 babaamwewekamigishin,babaamwewekamigishin,VAI,VAI_n,NONE,UnpublishedOPD
 badakibanwe'o,badakibanwe'o,VAI,VAI_V,NONE,UnpublishedOPD
-babaamwewekamigishkam,babaamwewekamigishkam,VAI,VAI_am,NONE,UnpublishedOPD
+babaamwewekamigishkam,babaamwewekamigishk,VAI,VAI_am,NONE,UnpublishedOPD
 babiizigininjiiyaabaawe,babiizigininjiiyaabaawe,VAI,VAI_VV,NONE,UnpublishedOPD
 babaaginiishkwe,babaaginiishkwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/babaaginiishkwe-vai
 baashkam,baashkam,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/baashkam-vta
@@ -4987,7 +4987,7 @@ bakaakizo,bakaakizo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/bakaaki
 bagogidigweshkaa,bagogidigweshkaa,VAI,VAI_VV,NONE,UnpublishedOPD
 bagida'amaw,bagida'amaw,VTA,VTA_aw,NONE,UnpublishedOPD
 babaamenindiwag,babaamenindi,VAI,VAI_rcp,NONE,UnpublishedOPD
-babaamwewidam,babaamwewidam,VAI,VAI_am,NONE,UnpublishedOPD
+babaamwewidam,babaamwewid,VAI,VAI_am,NONE,UnpublishedOPD
 bagogidigwezi,bagogidigwezi,VAI,VAI_V,NONE,UnpublishedOPD
 bakaakwa'an,bakaakwa',VTI,VTI_am,NONE,UnpublishedOPD
 badakijii'ige,badakijii'ige,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -5024,7 +5024,7 @@ babaamiba'idiwag,babaamiba'idi,VAI,VAI_rcp,NONE,https://ojibwe.lib.umn.edu/main-
 bagamaashim,bagamaashim,VTA,VTA_C,NONE,UnpublishedOPD
 bagoz,bagozw1,VTA,VTA_Cw,NONE,UnpublishedOPD
 bagwanetoon,bagwanet,VTI,VTI_oo,NONE,UnpublishedOPD
-bakaanendam,bakaanendam,VAI,VAI_am,NONE,UnpublishedOPD
+bakaanendam,bakaanend,VAI,VAI_am,NONE,UnpublishedOPD
 bagidaabii,bagidaabii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bagidaabii-vai
 bagamaashkaa,bagamaashkaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bagamaashkaa-vii
 bagozan,bagoz,VTI,VTI_am,NONE,UnpublishedOPD
@@ -5364,7 +5364,7 @@ bakewebinan,bakewebin,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/bake
 bapaadakizidejin,bapaadakizidejin,VAI,VAI_n,NONE,UnpublishedOPD
 bakwadaabidebijige,bakwadaabidebijige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bakwadaabidebijige-vai
 bakweyaabikishkaa,bakweyaabikishkaa,VAI,VAI_VV,NONE,UnpublishedOPD
-bashinewagendam,bashinewagendam,VAI,VAI_am,NONE,UnpublishedOPD
+bashinewagendam,bashinewagend,VAI,VAI_am,NONE,UnpublishedOPD
 bapasikawaajige,bapasikawaajige,VAI,VAI_VV,NONE,UnpublishedOPD
 bakiteshim,bakiteshim,VTA,VTA_C,NONE,UnpublishedOPD
 bapaadakizideshin,bapaadakizideshin,VAI,VAI_n,NONE,UnpublishedOPD
@@ -5413,7 +5413,7 @@ bashkobiisan,bashkobiis,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/ba
 basiingwe',basiingwe'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/basiingwe-vta
 bakiteshkaw,bakiteshkaw,VTA,VTA_aw,NONE,UnpublishedOPD
 bawiwebishkan,bawiwebishk,VTI,VTI_am,NONE,UnpublishedOPD
-bapaawa'am,bapaawa'am,VAI,VAI_am,NONE,UnpublishedOPD
+bapaawa'am,bapaawa',VAI,VAI_am,NONE,UnpublishedOPD
 bakwadakamigibizh,bakwadakamigibin1,VTA,VTA_n,NONE,UnpublishedOPD
 bapaswewe,bapaswewe,VII,VII_VV,NONE,UnpublishedOPD
 bapaawishim,bapaawishim,VTA,VTA_C,NONE,UnpublishedOPD
@@ -5538,7 +5538,7 @@ bakwajiweba'wi,bakwajiweba'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-en
 bapawiwebin,bapawiwebin,VTA,VTA_C,NONE,UnpublishedOPD
 bashkoga'an,bashkoga',VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/bashkoga-an-vti
 bakwezhiganikaw,bakwezhiganikaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/bakwezhiganikaw-vta
-bapagwadendam,bapagwadendam,VAI,VAI_am,NONE,UnpublishedOPD
+bapagwadendam,bapagwadend,VAI,VAI_am,NONE,UnpublishedOPD
 bakiteyaashkaa,bakiteyaashkaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bakiteyaashkaa-vii
 bengwaakadozan,bengwaakadoz,VTI,VTI_am,NONE,UnpublishedOPD
 bakwajizhwi,bakwajizhw1,VTA,VTA_Cw,NONE,UnpublishedOPD
@@ -5564,7 +5564,7 @@ basinaaso,basinaaso,VAI,VAI_V,NONE,UnpublishedOPD
 bengwaakozi,bengwaakozi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/bengwaakozi-vai
 bakiboozh,bakiboon1,VTA,VTA_n,NONE,UnpublishedOPD
 bapiimo,bapiimw1,VTA,VTA_Cw,NONE,UnpublishedOPD
-bapajiba'am,bapajiba'am,VAI,VAI_am,NONE,UnpublishedOPD
+bapajiba'am,bapajiba',VAI,VAI_am,NONE,UnpublishedOPD
 bakizh,bakizhw1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bakizh-vta
 bazagoshkaa,bazagoshkaa,VII,VII_VV,NONE,UnpublishedOPD
 banazikaw,banazikaw,VTA,VTA_aw,NONE,UnpublishedOPD
@@ -5770,7 +5770,7 @@ bidigwesabi,bidigwesabi,VAI,VAI_V,NONE,UnpublishedOPD
 bamenindiwag,bamenindi,VAI,VAI_rcp,NONE,UnpublishedOPD
 bakidagoojin,bakidagoojin,VAI,VAI_n,NONE,https://ojibwe.lib.umn.edu/main-entry/bakidagoojin-vai
 bii'o,bii'o,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/bii-o-vai
-baswewewidam,baswewewidam,VAI,VAI_am,NONE,UnpublishedOPD
+baswewewidam,baswewewid,VAI,VAI_am,NONE,UnpublishedOPD
 basa'wi,basa'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
 bashkozhan,bashkozh,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/bashkozhan-vti
 bibagadowe,bibagadowe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bibagadowe-vai
@@ -6372,7 +6372,7 @@ bengodoone,bengodoone,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/beng
 biindigeyaagoneshkige,biindigeyaagoneshkige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/biindigeyaagoneshkige-vai
 bazigonjise,bazigonjise,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bazigonjise-vai
 beshibii'wi,beshibii'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/beshibii-vta
-banitam,banitam,VAI,VAI_am,NONE,UnpublishedOPD
+banitam,banit,VAI,VAI_am,NONE,UnpublishedOPD
 bezhigoopizo,bezhigoopizo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/bezhigoopizo-vai
 bawaasidoon,bawaasid,VTI,VTI_oo,NONE,UnpublishedOPD
 bakweneyaagamin,bakweneyaagamin,VII,VII_n,NONE,UnpublishedOPD
@@ -6550,7 +6550,7 @@ biida'oojigaade,biida'oojigaade,VII,VII_VV,NONE,UnpublishedOPD
 biijipon,biijipo,VII,VII_V,NONE,https://ojibwe.lib.umn.edu/main-entry/biijipon-vii
 biboonagizi,biboonagizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/biboonagizi-vai
 bengoshim,bengoshim,VTA,VTA_C,NONE,UnpublishedOPD
-biigizawitam,biigizawitam,VAI,VAI_am,NONE,UnpublishedOPD
+biigizawitam,biigizawit,VAI,VAI_am,NONE,UnpublishedOPD
 bashojiizi,bashojiizi,VAI,VAI_V,NONE,UnpublishedOPD
 bezhigwaakoshin,bezhigwaakoshin,VAI,VAI_n,NONE,UnpublishedOPD
 biisishkaw,biisishkaw,VTA,VTA_aw,NONE,UnpublishedOPD
@@ -6674,7 +6674,7 @@ biinjiboonaaganike,biinjiboonaaganike,VAI,VAI_VV,NONE,UnpublishedOPD
 bawegisidoon,bawegisid,VTI,VTI_oo,NONE,UnpublishedOPD
 bebakaanakizine,bebakaanakizine,VAI,VAI_VV,NONE,UnpublishedOPD
 biidaabanigozi,biidaabanigozi,VAI,VAI_V,NONE,UnpublishedOPD
-biidakwa'amoog,biidakwa'am,VAIPL,VAIPL_am,NONE,UnpublishedOPD
+biidakwa'amoog,biidakwa',VAIPL,VAIPL_am,NONE,UnpublishedOPD
 bezhigwegigwaade,bezhigwegigwaade,VII,VII_VV,NONE,UnpublishedOPD
 bigishkiga',bigishkiga'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bigishkiga-vta
 biinjiboozh,biinjiboozh,VTA,VTA_C,NONE,UnpublishedOPD
@@ -6690,7 +6690,7 @@ beshisin,beshisin,VII,VII_n,NONE,UnpublishedOPD
 biiwiga'iganike,biiwiga'iganike,VAI,VAI_VV,NONE,UnpublishedOPD
 biimiingwe,biimiingwe,VAI,VAI_VV,NONE,UnpublishedOPD
 biindigeyoom,biindigeyoom,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biindigeyoom-vta
-bezhigwendam,bezhigwendam,VAI,VAI_am,NONE,UnpublishedOPD
+bezhigwendam,bezhigwend,VAI,VAI_am,NONE,UnpublishedOPD
 biigwaasidoon,biigwaasid,VTI,VTI_oo,NONE,UnpublishedOPD
 biidaabate,biidaabate,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/biidaabate-vii
 biijiwane,biijiwane,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/biijiwane-vai
@@ -6777,7 +6777,7 @@ biinaabiigad,biinaabiigad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/b
 biidanem,biidanem,VTA,VTA_C,NONE,UnpublishedOPD
 biijwebinan,biijwebin,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/biijwebinan-vti
 biigodaabaane,biigodaabaane,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/biigodaabaane-vai
-biinjidawa'am,biinjidawa'am,VAI,VAI_am,NONE,UnpublishedOPD
+biinjidawa'am,biinjidawa',VAI,VAI_am,NONE,UnpublishedOPD
 beshizhodizo,beshizhodizo,VAI,VAI_rfx,NONE,UnpublishedOPD
 biiwiganaandan,biiwiganaand,VTI,VTI_am,NONE,UnpublishedOPD
 biimin,biimin,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biimin-vta
@@ -6984,7 +6984,7 @@ biimisin,biimisin,VII,VII_n,NONE,UnpublishedOPD
 bimiji-ayaa,bimiji-ayaa,VII,VII_VV,NONE,UnpublishedOPD
 bigishkizh,bigishkizhw1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bigishkizh-vta
 biinaagamin,biinaagami,VII,VII_V,NONE,https://ojibwe.lib.umn.edu/main-entry/biinaagamin-vii
-bi-mooka'am,bi-mooka'am,VAI,VAI_am,NONE,UnpublishedOPD
+bi-mooka'am,bi-mooka',VAI,VAI_am,NONE,UnpublishedOPD
 biigwam,biigwam,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biigwam-vta
 biigojiibizh,biigojiibin1,VTA,VTA_n,NONE,UnpublishedOPD
 biimaabikin,biimaabikin,VTA,VTA_C,NONE,UnpublishedOPD
@@ -7488,7 +7488,7 @@ biidaanakwagoode,biidaanakwagoode,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/mai
 bimike'iganike,bimike'iganike,VAI,VAI_VV,NONE,UnpublishedOPD
 biitewishkaa,biitewishkaa,VAI,VAI_VV,NONE,UnpublishedOPD
 biindigedemo,biindigedemo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/biindigedemo-vai
-biidwewenam,biidwewenam,VAI,VAI_am,NONE,UnpublishedOPD
+biidwewenam,biidwewen,VAI,VAI_am,NONE,UnpublishedOPD
 biinisagaa,biinisagaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/biinisagaa-vii
 biimaskogaadeni,biimaskogaadeni,VAI,VAI_V,NONE,UnpublishedOPD
 biindaabikibijige,biindaabikibijige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/biindaabikibijige-vai
@@ -7623,7 +7623,7 @@ biigozh,biigozhw1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/biigozh-
 biinisidoon,biinisidoon,VAI,VAI_n,NONE,https://ojibwe.lib.umn.edu/main-entry/biinisidoon-vai
 bikokobaa,bikokobaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bikokobaa-vii
 biiwaaboode,biiwaaboode,VII,VII_VV,NONE,UnpublishedOPD
-biidwewewidam,biidwewewidam,VAI,VAI_am,NONE,UnpublishedOPD
+biidwewewidam,biidwewewid,VAI,VAI_am,NONE,UnpublishedOPD
 biigozhan,biigozh,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/biigozhan-vti
 biindaagibagizo,biindaagibagizo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/biindaagibagizo-vai
 biinjwebin,biinjwebin,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biinjwebin-vta
@@ -8066,7 +8066,7 @@ bishkwewebizo,bishkwewebizo,VAI,VAI_V,NONE,UnpublishedOPD
 biniskozhan,biniskozh,VTI,VTI_am,NONE,UnpublishedOPD
 binagaakobijige,binagaakobijige,VAI,VAI_VV,NONE,UnpublishedOPD
 bishagizhan,bishagizh,VTI,VTI_am,NONE,UnpublishedOPD
-bishkwewidam,bishkwewidam,VAI,VAI_am,NONE,UnpublishedOPD
+bishkwewidam,bishkwewid,VAI,VAI_am,NONE,UnpublishedOPD
 biniskozhwi,biniskozhw1,VTA,VTA_Cw,NONE,UnpublishedOPD
 binagaakobizh,binagaakobin1,VTA,VTA_n,NONE,UnpublishedOPD
 bimosina',bimosina',VTA,VTA_C,NONE,UnpublishedOPD
@@ -8183,7 +8183,7 @@ bizhenan,bizhen,VTI,VTI_am,NONE,UnpublishedOPD
 biniwebaganaandan,biniwebaganaand,VTI,VTI_am,NONE,UnpublishedOPD
 binangwaabiigagoodoon,binangwaabiigagood,VTI,VTI_oo,NONE,UnpublishedOPD
 bishigoboozh,bishigoboon1,VTA,VTA_n,NONE,UnpublishedOPD
-biziskendam,biziskendam,VAI,VAI_am,NONE,UnpublishedOPD
+biziskendam,biziskend,VAI,VAI_am,NONE,UnpublishedOPD
 bimwewedaawangose,bimwewedaawangose,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bimwewedaawangose-vai
 biskaabii,biskaabii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/biskaabii-vai
 bishigochige,bishigochige,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -8221,7 +8221,7 @@ bizhigozi,bizhigozi,VAI,VAI_V,NONE,UnpublishedOPD
 bimwewejiishkiwase,bimwewejiishkiwase,VAI,VAI_VV,NONE,UnpublishedOPD
 bizhigwaabandan,bizhigwaaband,VTI,VTI_am,NONE,UnpublishedOPD
 bishigoganaanjige,bishigoganaanjige,VAI,VAI_VV,NONE,UnpublishedOPD
-bizitam,bizitam,VAI,VAI_am,NONE,UnpublishedOPD
+bizitam,bizit,VAI,VAI_am,NONE,UnpublishedOPD
 binchinaazo,binchinaazo,VAI,VAI_V,NONE,UnpublishedOPD
 biskinan,biskin,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/biskinan-vti
 bimwewejiwan,bimwewejiwan,VII,VII_n,NONE,UnpublishedOPD
@@ -8344,7 +8344,7 @@ biskaabikidoon,biskaabikid,VTI,VTI_oo,NONE,UnpublishedOPD
 bimweweyaagoneshkige,bimweweyaagoneshkige,VAI,VAI_VV,NONE,UnpublishedOPD
 bizoshkaw,bizoshkaw,VTA,VTA_aw,NONE,UnpublishedOPD
 boopookogaade,boopookogaade,VAI,VAI_VV,NONE,UnpublishedOPD
-bishigotam,bishigotam,VAI,VAI_am,NONE,UnpublishedOPD
+bishigotam,bishigot,VAI,VAI_am,NONE,UnpublishedOPD
 bishagaakide,bishagaakide,VII,VII_VV,NONE,UnpublishedOPD
 boopookogaadenaw,boopookogaadenaw,VTA,VTA_aw,NONE,UnpublishedOPD
 bizhikiiwimoowimaasige,bizhikiiwimoowimaasige,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -8391,7 +8391,7 @@ biskitigweyaa,biskitigweyaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entr
 bookogane,bookogane,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bookogane-vai
 binewinaagozi,binewinaagozi,VAI,VAI_V,NONE,UnpublishedOPD
 bwaanawi',bwaanawi',VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/bwaanawi-vta
-bizwendam,bizwendam,VAI,VAI_am,NONE,UnpublishedOPD
+bizwendam,bizwend,VAI,VAI_am,NONE,UnpublishedOPD
 bookwaakizan,bookwaakiz,VTI,VTI_am,NONE,UnpublishedOPD
 bimweweyaanimad,bimweweyaanimad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/bimweweyaanimad-vii
 biskaakobizh,biskaakobin1,VTA,VTA_n,NONE,UnpublishedOPD
@@ -8884,7 +8884,7 @@ boozhoowi',boozhoowi',VTA,VTA_C,NONE,UnpublishedOPD
 daangigwanenan,daangigwanen,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/daangigwanenan-vti
 bookonikeshin,bookonikeshin,VAI,VAI_n,NONE,https://ojibwe.lib.umn.edu/main-entry/bookonikeshin-vai
 dasoobi,dasoobi,VAI,VAI_V,NONE,UnpublishedOPD
-dakwega'am,dakwega'am,VAI,VAI_am,NONE,UnpublishedOPD
+dakwega'am,dakwega',VAI,VAI_am,NONE,UnpublishedOPD
 binaakwe'an,binaakwe',VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/binaakwe-an-vti
 daashkiganzhiishin,daashkiganzhiishin,VAI,VAI_n,NONE,https://ojibwe.lib.umn.edu/main-entry/daashkiganzhiishin-vai
 bishagiishkaakwaa,bishagiishkaakwaa,VII,VII_VV,NONE,UnpublishedOPD
@@ -9024,7 +9024,7 @@ bwaawibatoo,bwaawibatoo,VAI,VAI_VV,NONE,UnpublishedOPD
 dakwegin,dakwegin,VTA,VTA_C,NONE,UnpublishedOPD
 boonakaazo,boonakaazo,VAI,VAI_V,NONE,UnpublishedOPD
 bishagiishkibikate,bishagiishkibikate,VII,VII_VV,NONE,UnpublishedOPD
-dasookam,dasookam,VAI,VAI_am,NONE,UnpublishedOPD
+dasookam,dasook,VAI,VAI_am,NONE,UnpublishedOPD
 bizikitaw,bizikitaw,VTA,VTA_aw,NONE,UnpublishedOPD
 datakininjii,datakininjii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/datakininjii-vai
 bishkongwashi,bishkongwashi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/bishkongwashi-vai
@@ -9072,7 +9072,7 @@ dabasaasin,dabasaasin,VII,VII_n,NONE,https://ojibwe.lib.umn.edu/main-entry/dabas
 dagwaakide,dagwaakide,VII,VII_VV,NONE,UnpublishedOPD
 boozichigaazo,boozichigaazo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/boozichigaazo-vai
 bizikoozo,bizikoozo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/bizikoozo-vai
-bitaakwendam,bitaakwendam,VAI,VAI_am,NONE,UnpublishedOPD
+bitaakwendam,bitaakwend,VAI,VAI_am,NONE,UnpublishedOPD
 boonakamigad,boonakamigad,VII,VII_d,NONE,UnpublishedOPD
 dadaakwegibizh,dadaakwegibin1,VTA,VTA_n,NONE,UnpublishedOPD
 biskigwaadan,biskigwaad,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/biskigwaadan-vti
@@ -9170,11 +9170,11 @@ bizindam,bizind,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/bizindam-v
 booziginan,boozigin,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/booziginan-vti
 dakiigamisidoon,dakiigamisid,VTI,VTI_oo,NONE,UnpublishedOPD
 boonakiiyaabiiginan,boonakiiyaabiigin,VTI,VTI_am,NONE,UnpublishedOPD
-debendam,debendam,VAI,VAI_am,NONE,UnpublishedOPD
+debendam,debend,VAI,VAI_am,NONE,UnpublishedOPD
 dasoonagapijige,dasoonagapijige,VAI,VAI_VV,NONE,UnpublishedOPD
 dadaatabanaamo,dadaatabanaamo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/dadaatabanaamo-vai
 denaabiishim,denaabiishim,VTA,VTA_C,NONE,UnpublishedOPD
-dakwewidam,dakwewidam,VAI,VAI_am,NONE,UnpublishedOPD
+dakwewidam,dakwewid,VAI,VAI_am,NONE,UnpublishedOPD
 daashkiigin,daashkiigin,VTA,VTA_C,NONE,UnpublishedOPD
 bitaganaandan,bitaganaand,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/bitaganaandan-vti
 datibanaanikwe,datibanaanikwe,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -9261,7 +9261,7 @@ dagwagoozh,dagwagoon1,VTA,VTA_n,NONE,UnpublishedOPD
 bookosidoon,bookosid,VTI,VTI_oo,NONE,UnpublishedOPD
 dawaabikaa,dawaabikaa,VII,VII_VV,NONE,UnpublishedOPD
 dabasagoozh,dabasagoon1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/dabasagoozh-vta
-denga'am,denga'am,VAI,VAI_am,NONE,UnpublishedOPD
+denga'am,denga',VAI,VAI_am,NONE,UnpublishedOPD
 boozikaa,boozikaa,VII,VII_VV,NONE,UnpublishedOPD
 daashkijii'wi,daashkijii'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
 dewikweshkaw,dewikweshkaw,VTA,VTA_aw,NONE,UnpublishedOPD
@@ -9422,7 +9422,7 @@ danaadizi,danaadizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/danaadi
 dagwapidoon,dagwapid,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/dagwapidoon-vti2
 dawaamika'ige,dawaamika'ige,VAI,VAI_VV,NONE,UnpublishedOPD
 bookwa',bookwa'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/bookwa-vta
-dadendam,dadendam,VAI,VAI_am,NONE,UnpublishedOPD
+dadendam,dadend,VAI,VAI_am,NONE,UnpublishedOPD
 bwaawinige,bwaawinige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bwaawinige-vai
 dabasanzikaa,dabasanzikaa,VII,VII_VV,NONE,UnpublishedOPD
 dakosaga'ige,dakosaga'ige,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -9944,7 +9944,7 @@ dwaaba'ibii,dwaaba'ibii,VAI,VAI_VV,NONE,UnpublishedOPD
 diba'amaadim,diba'amaadi,VAI,VAI_m,NONE,UnpublishedOPD
 dakwaabikad,dakwaabikad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/dakwaabikad-vii
 dazhwegishkan,dazhwegishk,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/dazhwegishkan-vti
-debiseyendam,debiseyendam,VAI,VAI_am,NONE,UnpublishedOPD
+debiseyendam,debiseyend,VAI,VAI_am,NONE,UnpublishedOPD
 dagogindan,dagogind,VTI,VTI_am,NONE,UnpublishedOPD
 daataagoninjii'odizo,daataagoninjii'odizo,VAI,VAI_rfx,NONE,UnpublishedOPD
 daashkakamigaa,daashkakamigaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/daashkakamigaa-vii
@@ -10077,7 +10077,7 @@ dakwaakoboozh,dakwaakoboon1,VTA,VTA_n,NONE,UnpublishedOPD
 dakaashim,dakaashim,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/dakaashim-vta
 dwaashkaw,dwaashkaw,VTA,VTA_aw,NONE,UnpublishedOPD
 datagoganaandan,datagoganaand,VTI,VTI_am,NONE,UnpublishedOPD
-dabinawa'am,dabinawa'am,VAI,VAI_am,NONE,UnpublishedOPD
+dabinawa'am,dabinawa',VAI,VAI_am,NONE,UnpublishedOPD
 debitaagwad,debitaagwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/debitaagwad-vii
 dibikate,dibikate,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/dibikate-vii
 doodam,dood,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/doodam-vai2
@@ -10207,7 +10207,7 @@ dibikishkaa,dibikishkaa,VAI,VAI_VV,NONE,UnpublishedOPD
 datagwaakozide',datagwaakoside'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
 dazhibatoo,dazhibatoo,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/dazhibatoo-vai
 dakobizh,dakobin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/dakobizh-vta
-debwe'endam,debwe'endam,VAI,VAI_am,NONE,UnpublishedOPD
+debwe'endam,debwe'end,VAI,VAI_am,NONE,UnpublishedOPD
 ditibaakoshkige,ditibaakoshkige,VAI,VAI_VV,NONE,UnpublishedOPD
 dakaawiganemanji'o,dakaawiganemanji'o,VAI,VAI_V,NONE,UnpublishedOPD
 diba'igesemagad,diba'igesemagad,VII,VII_d,NONE,UnpublishedOPD
@@ -10412,7 +10412,7 @@ enad,enad,VII,VII_d,NONE,UnpublishedOPD
 ditibasikaw,ditibasikaw,VTA,VTA_aw,NONE,UnpublishedOPD
 diitibizo,diitibizo,VAI,VAI_V,NONE,UnpublishedOPD
 dookibidoon,dookibid,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/dookibidoon-vti2
-debwewesaginam,debwewesaginam,VAI,VAI_am,NONE,UnpublishedOPD
+debwewesaginam,debwewesagin,VAI,VAI_am,NONE,UnpublishedOPD
 enaganaam,enaganaam,VTA,VTA_C,NONE,UnpublishedOPD
 debabi,debabi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/debabi-vai
 dibishkookaw,dibishkookaw,VTA,VTA_aw,NONE,UnpublishedOPD
@@ -10427,7 +10427,7 @@ ditibazikaw,ditibazikaw,VTA,VTA_aw,NONE,UnpublishedOPD
 dookibizh,dookibin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/dookibizh-vta
 enam,enam,VTA,VTA_C,NONE,UnpublishedOPD
 dibishkosidoon,dibishkosid,VTI,VTI_oo,NONE,UnpublishedOPD
-debagendam,debagendam,VAI,VAI_am,NONE,UnpublishedOPD
+debagendam,debagend,VAI,VAI_am,NONE,UnpublishedOPD
 dewenizi,dewenizi,VAI,VAI_V,NONE,UnpublishedOPD
 ditibibani'o,ditibibani'o,VAI,VAI_V,NONE,UnpublishedOPD
 dibaabiigin,dibaabiigin,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/dibaabiigin-vta
@@ -10444,7 +10444,7 @@ daninan,danin,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/daninan-vti
 dewide'e,dewide'e,VAI,VAI_VV,NONE,UnpublishedOPD
 dibizhan,dibizh,VTI,VTI_am,NONE,UnpublishedOPD
 debwewidam,debwewid,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/debwewidam-vai2
-debakiinam,debakiinam,VAI,VAI_am,NONE,UnpublishedOPD
+debakiinam,debakiin,VAI,VAI_am,NONE,UnpublishedOPD
 dibaabiiginan,dibaabiigin,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/dibaabiiginan-vti
 dookijii'wi,dookijii'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
 dimii,dimii,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/dimii-vii
@@ -10458,7 +10458,7 @@ dibizidaandan,dibizidaand,VTI,VTI_am,NONE,UnpublishedOPD
 debakiishkige,debakiishkige,VAI,VAI_VV,NONE,UnpublishedOPD
 ditibibidoon,ditibibid,VTI,VTI_oo,NONE,UnpublishedOPD
 dimiigamaa,dimiigamaa,VII,VII_VV,NONE,UnpublishedOPD
-dibwayagendam,dibwayagendam,VAI,VAI_am,NONE,UnpublishedOPD
+dibwayagendam,dibwayagend,VAI,VAI_am,NONE,UnpublishedOPD
 debweyaakokwe,debweyaakokwe,VAI,VAI_VV,NONE,UnpublishedOPD
 dimiitigweyaa,dimiitigweyaa,VII,VII_VV,NONE,UnpublishedOPD
 debakiiyaabaminaagwad,debakiiyaabaminaagwad,VII,VII_d,NONE,UnpublishedOPD
@@ -10746,7 +10746,7 @@ gaakiigizan,gaakiigiz,VTI,VTI_am,NONE,UnpublishedOPD
 gaapashkweyaa,gaapashkweyaa,VII,VII_VV,NONE,UnpublishedOPD
 gaagiijidiye,gaagiijidiye,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gaagiijidiye-vai
 gaasi'an,gaasi',VTI,VTI_am,NONE,UnpublishedOPD
-gaaskanaandam,gaaskanaandam,VAI,VAI_am,NONE,UnpublishedOPD
+gaaskanaandam,gaaskanaand,VAI,VAI_am,NONE,UnpublishedOPD
 gaakijiwan,gaakijiwan,VII,VII_n,NONE,UnpublishedOPD
 gaasii',gaasii'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/gaasii-vta
 gaaskanaso,gaaskanaso,VAI,VAI_V,NONE,UnpublishedOPD
@@ -11074,7 +11074,7 @@ gaasiishkaw,gaasiishkaw,VTA,VTA_aw,NONE,UnpublishedOPD
 gashkii-dibikate,gashkii-dibikate,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gashkii-dibikate-vii
 gagwejimaam,gagwejimaam,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gagwejimaam-vta
 gagaanwaakwawe,gagaanwaakwawe,VAI,VAI_VV,NONE,UnpublishedOPD
-gagiibishkam,gagiibishkam,VAI,VAI_am,NONE,UnpublishedOPD
+gagiibishkam,gagiibishk,VAI,VAI_am,NONE,UnpublishedOPD
 gaashadeweyaa,gaashadeweyaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gaashadeweyaa-vii
 gaagiizhooninjiishkodaadizo,gaagiizhooninjiishkodaadizo,VAI,VAI_rfx,NONE,UnpublishedOPD
 gakiiwewane,gakiiwewane,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gakiiwewane-vai
@@ -11351,7 +11351,7 @@ geshawishkaa,geshawishkaa,VII,VII_VV,NONE,UnpublishedOPD
 gagwaanisagindan,gagwaanisagind,VTI,VTI_am,NONE,UnpublishedOPD
 gaagiichwebinan,gaagiichwebin,VTI,VTI_am,NONE,UnpublishedOPD
 gashkiiwegapidoon,gashkiiwegapid,VTI,VTI_oo,NONE,UnpublishedOPD
-gagaawendam,gagaawendam,VAI,VAI_am,NONE,UnpublishedOPD
+gagaawendam,gagaawend,VAI,VAI_am,NONE,UnpublishedOPD
 gaawe,gaawe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gaawe-vai
 gagiigidoongwaam,gagiigidoongwaam,VAI,VAI_m,NONE,UnpublishedOPD
 gaajisidoon,gaajisid,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/gaajisidoon-vti2
@@ -11469,7 +11469,7 @@ gashkadaagamadin,gashkadaagamadin,VII,VII_n,NONE,UnpublishedOPD
 gaaskaabikide,gaaskaabikide,VII,VII_VV,NONE,UnpublishedOPD
 gaashkam,gaashkam,VTA,VTA_C,NONE,UnpublishedOPD
 gichinikaa,gichinikaa,VAI,VAI_VV,NONE,UnpublishedOPD
-gashkiiwendam,gashkiiwendam,VAI,VAI_am,NONE,UnpublishedOPD
+gashkiiwendam,gashkiiwend,VAI,VAI_am,NONE,UnpublishedOPD
 gaakaanjiwebinidiwag,gaakaanjiwebinidi,VAI,VAI_rcp,NONE,UnpublishedOPD
 gagiikimaawaso,gagiikimaawaso,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gagiikimaawaso-vai
 gaganoondan,gaganoond,VTI,VTI_am,NONE,UnpublishedOPD
@@ -11554,7 +11554,7 @@ gibaakose,gibaakose,VII,VII_VV,NONE,UnpublishedOPD
 gichitwaawendan,gichitwaawend,VTI,VTI_am,NONE,UnpublishedOPD
 gaaskaakwa'ige,gaaskaakwa'ige,VAI,VAI_VV,NONE,UnpublishedOPD
 gawinigaazo,gawinigaazo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gawinigaazo-vai
-gesikwendam,gesikwendam,VAI,VAI_am,NONE,UnpublishedOPD
+gesikwendam,gesikwend,VAI,VAI_am,NONE,UnpublishedOPD
 gagwaatigwandan,gagwaatigwand,VTI,VTI_am,NONE,UnpublishedOPD
 gichi-gikendaagozi,gichi-gikendaagozi,VAI,VAI_V,NONE,UnpublishedOPD
 gashkamaakodooneni,gashkamaakodooneni,VAI,VAI_V,NONE,UnpublishedOPD
@@ -11637,7 +11637,7 @@ giijinikeshin,giijinikeshin,VAI,VAI_n,NONE,UnpublishedOPD
 gidimaagitaagozi,gidimaagitaagozi,VAI,VAI_V,NONE,UnpublishedOPD
 gichiwaagonesin,gichiwaagonesin,VII,VII_n,NONE,https://ojibwe.lib.umn.edu/main-entry/gichiwaagonesin-vii
 gaanjwebin,gaanjwebin,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gaanjwebin-vta
-gagetinaamitam,gagetinaamitam,VAI,VAI_am,NONE,UnpublishedOPD
+gagetinaamitam,gagetinaamit,VAI,VAI_am,NONE,UnpublishedOPD
 giimitam,giimit,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/giimitam-vai2
 gakakaabikizi,gakakaabikizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gakakaabikizi-vai
 gashkitaw,gashkitaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/gashkitaw-vta
@@ -11767,7 +11767,7 @@ gagwedaganaandiwag,gagwedaganaandi,VAI,VAI_rcp,NONE,https://ojibwe.lib.umn.edu/m
 giishka'amaw,giishka'amaw,VTA,VTA_aw,NONE,UnpublishedOPD
 gaawisagad,gaawisagad,VII,VII_d,NONE,UnpublishedOPD
 gawiskwagizi,gawiskwagizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gawiskwagizi-vai
-giikaawidam,giikaawidam,VAI,VAI_am,NONE,UnpublishedOPD
+giikaawidam,giikaawid,VAI,VAI_am,NONE,UnpublishedOPD
 gakaki-maziniigad,gakaki-maziniigad,VII,VII_d,NONE,UnpublishedOPD
 giimoodaajimotaw,giimoodaajimotaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/giimoodaajimotaw-vta
 gagiibaadendaagwad,gagiibaadendaagwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/gagiibaadendaagwad-vii
@@ -11824,7 +11824,7 @@ gaazh,gaan1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/gaazh-vta
 gawiweba'an,gawiweba',VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/gawiweba-an-vti
 gaankweba'amaw,gaankweba'amaw,VTA,VTA_aw,NONE,UnpublishedOPD
 gigizhebaawii,gigizhebaawii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gigizhebaawii-vai
-gagwedendam,gagwedendam,VAI,VAI_am,NONE,UnpublishedOPD
+gagwedendam,gagwedend,VAI,VAI_am,NONE,UnpublishedOPD
 giikadaawiganewaji,giikadaawiganewaji,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/giikadaawiganewaji-vai
 getenaagwad,getenaagwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/getenaagwad-vii
 gadiskiganeshin,gadiskiganeshin,VAI,VAI_n,NONE,UnpublishedOPD
@@ -11840,7 +11840,7 @@ gakakibidoon,gakakibid,VTI,VTI_oo,NONE,UnpublishedOPD
 gagiipizi,gagiipizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gagiipizi-vai
 gibishaganzhiishkaw,gibishaganzhiishkaw,VTA,VTA_aw,NONE,UnpublishedOPD
 gagwedendan,gagwedend,VTI,VTI_am,NONE,UnpublishedOPD
-getenam,getenam,VAI,VAI_am,NONE,UnpublishedOPD
+getenam,geten,VAI,VAI_am,NONE,UnpublishedOPD
 gawiweba'wi,gawiweba'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
 gakakibii'an,gakakibii',VTI,VTI_am,NONE,UnpublishedOPD
 giishka'ige,giishka'ige,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -12308,7 +12308,7 @@ giikigwaazh,giikigwaan1,VTA,VTA_n,NONE,UnpublishedOPD
 giichigobichigaade,giichigobichigaade,VII,VII_VV,NONE,UnpublishedOPD
 giiwashkwenoozo,giiwashkwenoozo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/giiwashkwenoozo-vai
 giishkigaamo,giishkigaamo,VAI,VAI_V,NONE,UnpublishedOPD
-gibendam,gibendam,VAI,VAI_am,NONE,UnpublishedOPD
+gibendam,gibend,VAI,VAI_am,NONE,UnpublishedOPD
 giizhi'o,giizhi'o,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/giizhi-o-vai
 giizhoon,giizhoon,VTA,VTA_C,NONE,UnpublishedOPD
 gibwanaamode,gibwanaamode,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gibwanaamode-vii
@@ -12619,7 +12619,7 @@ giitaabikin,giitaabikin,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/gii
 gidagibii'an,gidagibii',VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/gidagibii-an-vti
 gibitin,gibitin,VTA,VTA_C,NONE,UnpublishedOPD
 giichigwaakonige,giichigwaakonige,VAI,VAI_VV,NONE,UnpublishedOPD
-giiwe'am,giiwe'am,VAI,VAI_am,NONE,UnpublishedOPD
+giiwe'am,giiwe',VAI,VAI_am,NONE,UnpublishedOPD
 giikishkaw,giikishkaw,VTA,VTA_aw,NONE,UnpublishedOPD
 giinaakozi,giinaakozi,VAI,VAI_V,NONE,UnpublishedOPD
 gibichishimo,gibichishimo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gibichishimo-vai
@@ -12697,7 +12697,7 @@ giizhigi',giizhigi',VTA,VTA_C,NONE,UnpublishedOPD
 giishkiishkizidezh,giishkiishkizidezhw1,VTA,VTA_Cw,NONE,UnpublishedOPD
 giishkanaamo,giishkanaamo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/giishkanaamo-vai
 gichiiwibidoon,gichiiwibid,VTI,VTI_oo,NONE,UnpublishedOPD
-gibitwewidam,gibitwewid|am,VAI,VAI_am,NONE,UnpublishedOPD
+gibitwewidam,gibitwewid|,VAI,VAI_am,NONE,UnpublishedOPD
 giiwitaayaakoshin,giiwitaayaakoshin,VAI,VAI_n,NONE,UnpublishedOPD
 giishkijaane,giishkijaane,VAI,VAI_VV,NONE,UnpublishedOPD
 giiwe'oonidizo,giiwe'oonidizo,VAI,VAI_rfx,NONE,https://ojibwe.lib.umn.edu/main-entry/giiwe-oonidizo-vai
@@ -12777,7 +12777,7 @@ giiweba'odizo,giiweba'odizo,VAI,VAI_rfx,NONE,UnpublishedOPD
 giishkanakizi,giishkanakizi,VAI,VAI_V,NONE,UnpublishedOPD
 gigem,gigem,VTA,VTA_C,NONE,UnpublishedOPD
 giidaabideshin,giidaabideshin,VAI,VAI_n,NONE,UnpublishedOPD
-giizhiikam,giizhiikam,VAI,VAI_am,NONE,UnpublishedOPD
+giizhiikam,giizhiik,VAI,VAI_am,NONE,UnpublishedOPD
 giiniboodoon,giinibood,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/giiniboodoon-vti2
 giidaawiganeshin,giidaawiganeshin,VAI,VAI_n,NONE,UnpublishedOPD
 giimiba'iwe,giimiba'iwe,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -12842,7 +12842,7 @@ giiwaanaaji-gikaa,giiwaanaaji-gikaa,VAI,VAI_VV,NONE,UnpublishedOPD
 giishkapizo,giishkapizo,VAI,VAI_V,NONE,UnpublishedOPD
 gigibagiwayaane,gigibagiwayaane,VAI,VAI_VV,NONE,UnpublishedOPD
 giizhooyegad,giizhooyegad,VII,VII_d,NONE,UnpublishedOPD
-giizhiiyendam,giizhiiyendam,VAI,VAI_am,NONE,UnpublishedOPD
+giizhiiyendam,giizhiiyend,VAI,VAI_am,NONE,UnpublishedOPD
 giiyoode,giiyoode,VII,VII_VV,NONE,UnpublishedOPD
 giiwaazikaa,giiwaazikaa,VII,VII_VV,NONE,UnpublishedOPD
 giiniga',giiniga'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
@@ -12872,7 +12872,7 @@ giishkashkosiwizhige,giishkashkosiwizhige,VAI,VAI_VV,NONE,UnpublishedOPD
 giishkikozhiwe,giishkikozhiwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/giishkikozhiwe-vai
 giinikojige,giinikojige,VAI,VAI_VV,NONE,UnpublishedOPD
 giiwedaabii'iwe,giiwedaabii'iwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/giiwedaabii-iwe-vai
-giiwanaadendam,giiwanaadendam,VAI,VAI_am,NONE,UnpublishedOPD
+giiwanaadendam,giiwanaadend,VAI,VAI_am,NONE,UnpublishedOPD
 gigibiinzikawaagane,gigibiinzikawaagane,VAI,VAI_VV,NONE,UnpublishedOPD
 giishki-ayaa,giishki-ayaa,VII,VII_VV,NONE,UnpublishedOPD
 giinikondibe,giinikondibe,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -13449,7 +13449,7 @@ gizhibisidoon,gizhibisid,VTI,VTI_oo,NONE,UnpublishedOPD
 gikinoo'amaadizo,gikinoo'amaadizo,VAI,VAI_rfx,NONE,https://ojibwe.lib.umn.edu/main-entry/gikinoo-amaadizo-vai
 ginda'an,ginda',VTI,VTI_am,NONE,UnpublishedOPD
 giziizide'odizo,giziizide'odizo,VAI,VAI_rfx,NONE,UnpublishedOPD
-ginwega'am,ginwega'am,VAI,VAI_am,NONE,UnpublishedOPD
+ginwega'am,ginwega',VAI,VAI_am,NONE,UnpublishedOPD
 gizhibitawage,gizhibitawage,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gizhibitawage-vai
 goji',goji',VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/goji-vta
 ginjidaashkan,ginjidaashk,VTI,VTI_am,NONE,UnpublishedOPD
@@ -13527,7 +13527,7 @@ goopaazitaagwan,goopaazitaagwan,VII,VII_n,NONE,UnpublishedOPD
 gondaawangin,gondaawangin,VTA,VTA_C,NONE,UnpublishedOPD
 ginwegibizh,ginwegibin1,VTA,VTA_n,NONE,UnpublishedOPD
 gizhiiyendam,gizhiiyend,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/gizhiiyendam-vai2
-gizhigendam,gizhigendam,VAI,VAI_am,NONE,UnpublishedOPD
+gizhigendam,gizhigend,VAI,VAI_am,NONE,UnpublishedOPD
 gindaagwanagise,gindaagwanagise,VAI,VAI_VV,NONE,UnpublishedOPD
 gijwebinan,gijwebin,VTI,VTI_am,NONE,UnpublishedOPD
 goopaazitan,goopaazit,VTI,VTI_am,NONE,UnpublishedOPD
@@ -13539,7 +13539,7 @@ ginwegigwaadan,ginwegigwaad,VTI,VTI_am,NONE,UnpublishedOPD
 gondaawanginan,gondaawangin,VTI,VTI_am,NONE,UnpublishedOPD
 gizhigwaakwad,gizhigwaakwad,VII,VII_d,NONE,UnpublishedOPD
 gijwebishkan,gijwebishk,VTI,VTI_am,NONE,UnpublishedOPD
-gizhaawendam,gizhaawendam,VAI,VAI_am,NONE,UnpublishedOPD
+gizhaawendam,gizhaawend,VAI,VAI_am,NONE,UnpublishedOPD
 gindaagwanagise,gindaagwanagise,VII,VII_VV,NONE,UnpublishedOPD
 goopaazom,goopaazom,VTA,VTA_C,NONE,UnpublishedOPD
 gojibizochige,gojibizochige,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -13779,7 +13779,7 @@ gwayakose,gwayakose,VAI,VAI_VV,NONE,UnpublishedOPD
 gizhibaaba'idiwag,gizhibaaba'idi,VAI,VAI_rcp,NONE,UnpublishedOPD
 gwaabininjaandan,gwaabininjaand,VTI,VTI_am,NONE,UnpublishedOPD
 ginooshkosiwagaa,ginooshkosiwagaa,VII,VII_VV,NONE,UnpublishedOPD
-godagaabandam,godagaabandam,VAI,VAI_am,NONE,UnpublishedOPD
+godagaabandam,godagaaband,VAI,VAI_am,NONE,UnpublishedOPD
 gizhizan,gizhiz,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/gizhizan-vti
 gonigaapi,gonigaapi,VAI,VAI_V,NONE,UnpublishedOPD
 giziibizigweyaa'ogo,giziibizigweyaa'ogo,VAI,VAI_V,NONE,UnpublishedOPD
@@ -13811,7 +13811,7 @@ godagi'idizo,godagi'idizo,VAI,VAI_rfx,NONE,UnpublishedOPD
 gizhibaabatwaadan,gizhibaabatwaad,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/gizhibaabatwaadan-vti
 gipagaabiigizi,gipagaabiigizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gipagaabiigizi-vai
 gotigobide,gotigobide,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gotigobide-vii
-gopadendam,gopadendam,VAI,VAI_am,NONE,UnpublishedOPD
+gopadendam,gopadend,VAI,VAI_am,NONE,UnpublishedOPD
 gizhiibiingwe,gizhiibiingwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gizhiibiingwe-vai
 gwaakwaashkwanibagizo,gwaakwaashkwanibagizo,VAI,VAI_V,NONE,UnpublishedOPD
 ginootigweyaa,ginootigweyaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/ginootigweyaa-vii
@@ -14829,7 +14829,7 @@ inishkaa,inishkaa,VAI,VAI_VV,NONE,UnpublishedOPD
 ishpibide,ishpibide,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/ishpibide-vii
 ikwanaamo,ikwanaamo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/ikwanaamo-vai
 gizhiiweweshim,gizhiiweweshim,VTA,VTA_C,NONE,UnpublishedOPD
-inayezhinam,inayezhinam,VAI,VAI_am,NONE,UnpublishedOPD
+inayezhinam,inayezhin,VAI,VAI_am,NONE,UnpublishedOPD
 giziibiiginaagane,giziibiiginaagane,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/giziibiiginaagane-vai
 ingodwaaso-dibaabiishkoojiganed,ingodwaaso-dibaabiishkoojiganed,VII,VII_d,NONE,UnpublishedOPD
 inaakwesijige,inaakwesijige,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -15036,7 +15036,7 @@ ishpin,ishpin,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/ishpin-vta
 inendan,inend,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/inendan-vti
 gwayakoboozo,gwayakoboozo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gwayakoboozo-vai
 gwayakweni,gwayakweni,VAI,VAI_V,NONE,UnpublishedOPD
-ishpa'am,ishpa'am,VAI,VAI_am,NONE,UnpublishedOPD
+ishpa'am,ishpa',VAI,VAI_am,NONE,UnpublishedOPD
 goshkwaawaaji-ayaa,goshkwaawaaji-ayaa,VAI,VAI_VV,NONE,UnpublishedOPD
 inagoozh,inagoon1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/inagoozh-vta
 ingodwaasoninjaawagad,ingodwaasoninjaawagad,VII,VII_d,NONE,UnpublishedOPD
@@ -15057,7 +15057,7 @@ izhidaabaajigaade,izhidaabaajigaade,VII,VII_VV,NONE,UnpublishedOPD
 inaanimitaagozi,inaanimitaagozi,VAI,VAI_V,NONE,UnpublishedOPD
 iska'ibii,iska'ibii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/iska-ibii-vai
 inenindizo,inenindizo,VAI,VAI_rfx,NONE,UnpublishedOPD
-ishkwaa'am,ishkwaa'am,VAI,VAI_am,NONE,UnpublishedOPD
+ishkwaa'am,ishkwaa',VAI,VAI_am,NONE,UnpublishedOPD
 izhidaabaanigo,izhidaabaanigo,VAI,VAI_V,NONE,UnpublishedOPD
 inigokwadeyaabikad,inigokwadeyaabikad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/inigokwadeyaabikad-vii
 gwayakochigaazo,gwayakochigaazo,VAI,VAI_V,NONE,UnpublishedOPD
@@ -15481,7 +15481,7 @@ inaasigamaasin,inaasigamaasin,VII,VII_n,NONE,UnpublishedOPD
 inikoozo,inikoozo,VAI,VAI_V,NONE,UnpublishedOPD
 ishkitaagozi,ishkitaagozi,VAI,VAI_V,NONE,UnpublishedOPD
 ishpaatenige,ishpaatenige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/ishpaatenige-vai
-inigaayendam,inigaayendam,VAI,VAI_am,NONE,UnpublishedOPD
+inigaayendam,inigaayend,VAI,VAI_am,NONE,UnpublishedOPD
 iskigamizige,iskigamizige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/iskigamizige-vai
 inaagibizh,inaagibin1,VTA,VTA_n,NONE,UnpublishedOPD
 inandan,inand,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/inandan-vti
@@ -15728,7 +15728,7 @@ ishkwegoode,ishkwegoode,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/is
 izhikozh,izhikozhw1,VTA,VTA_Cw,NONE,UnpublishedOPD
 inwewesidoon,inwewesid,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/inwewesidoon-vti2
 izhikwanaye,izhikwanaye,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/izhikwanaye-vai
-ishpendam,ishpendam,VAI,VAI_am,NONE,UnpublishedOPD
+ishpendam,ishpend,VAI,VAI_am,NONE,UnpublishedOPD
 ishpendan,ishpend,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/ishpendan-vti
 izhim,izhim,VTA,VTA_C,NONE,UnpublishedOPD
 ishwaasoninjaawagad,ishwaasoninjaawagad,VII,VII_d,NONE,UnpublishedOPD
@@ -16100,7 +16100,7 @@ maajiishkaa,maajiishkaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/ma
 jiibiingweshkaa,jiibiingweshkaa,VAI,VAI_VV,NONE,UnpublishedOPD
 jiishaanowebizh,jiishaanowebin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/jiishaanowebizh-vta
 maajiba'idiwag,maajiba'idi,VAI,VAI_rcp,NONE,UnpublishedOPD
-jeka'am,jeka'am,VAI,VAI_am,NONE,UnpublishedOPD
+jeka'am,jeka',VAI,VAI_am,NONE,UnpublishedOPD
 maadaadizooke,maadaadizooke,VAI,VAI_VV,NONE,UnpublishedOPD
 jiigiga',jiigiga'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/jiigiga-vta
 jiibiingwetaw,jiibiingwetaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/jiibiingwetaw-vta
@@ -16332,7 +16332,7 @@ jaagiskwe,jaagiskwe,VAI,VAI_VV,NONE,UnpublishedOPD
 izhitamaw,izhitamaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/izhitamaw-vta
 jiigaandawe'ige,jiigaandawe'ige,VAI,VAI_VV,NONE,UnpublishedOPD
 madendan,madend,VTI,VTI_am,NONE,UnpublishedOPD
-jiigwa'am,jiigwa'am,VAI,VAI_am,NONE,UnpublishedOPD
+jiigwa'am,jiigwa',VAI,VAI_am,NONE,UnpublishedOPD
 maadaasin,maadaasin,VII,VII_n,NONE,https://ojibwe.lib.umn.edu/main-entry/maadaasin-vii
 maawandoobii'ige,maawandoobii'ige,VAI,VAI_VV,NONE,UnpublishedOPD
 jiisibizh,jiisibin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/jiisibizh-vta
@@ -16403,7 +16403,7 @@ jigiigizideshin,jigiigizideshin,VAI,VAI_n,NONE,UnpublishedOPD
 madweyaadagaa,madweyaadagaa,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/madweyaadagaa-vai
 jiisikaa,jiisikaa,VII,VII_VV,NONE,UnpublishedOPD
 maajiiyaajimo,maajiiyaajimo,VAI,VAI_V,NONE,UnpublishedOPD
-maamoojigendam,maamoojigendam,VAI,VAI_am,NONE,UnpublishedOPD
+maamoojigendam,maamoojigend,VAI,VAI_am,NONE,UnpublishedOPD
 madoodiswaagen,madoodiswaage,VAIO,VAIO,NONE,https://ojibwe.lib.umn.edu/main-entry/madoodiswaage-vai-o
 maawandoogindaaso,maawandoogindaaso,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/maawandoogindaaso-vai
 maajigwaaso,maajigwaaso,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/maajigwaaso-vai
@@ -16474,7 +16474,7 @@ madweyaagamishkaa,madweyaagamishkaa,VII,VII_VV,NONE,UnpublishedOPD
 jiibaakwaadan,jiibaakwaad,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/jiibaakwaadan-vti
 maajii'am,maajii',VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/maajii-am-vai2
 jiistanaabiigishkaa,jiistanaabiigishkaa,VII,VII_VV,NONE,UnpublishedOPD
-maamooshkam,maamooshkam,VAI,VAI_am,NONE,UnpublishedOPD
+maamooshkam,maamooshk,VAI,VAI_am,NONE,UnpublishedOPD
 majikaagamin,majikaagami,VII,VII_V,NONE,UnpublishedOPD
 maamakaajichige,maamakaajichige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/maamakaajichige-vai
 maadaazhagaame,maadaazhagaame,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/maadaazhagaame-vai
@@ -16502,7 +16502,7 @@ maajii'amaw,maajii'amaw,VTA,VTA_aw,NONE,UnpublishedOPD
 maamakaajise,maamakaajise,VAI,VAI_VV,NONE,UnpublishedOPD
 maazhimaagojiidii,maazhimaagojiidii,VAI,VAI_VV,NONE,UnpublishedOPD
 maadaazhagaamebatoo,maadaazhagaamebatoo,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/maadaazhagaamebatoo-vai
-maamooyawagendam,maamooyawagendam,VAI,VAI_am,NONE,UnpublishedOPD
+maamooyawagendam,maamooyawagend,VAI,VAI_am,NONE,UnpublishedOPD
 izhiwane,izhiwane,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/izhiwane-vai
 jaagizh,jaagizhw1,VTA,VTA_Cw,NONE,UnpublishedOPD
 maajiiyaasin,maajiiyaasin,VII,VII_n,NONE,https://ojibwe.lib.umn.edu/main-entry/maajiiyaasin-vii
@@ -16521,7 +16521,7 @@ maazhimaagomisade,maazhimaagomisade,VAI,VAI_VV,NONE,UnpublishedOPD
 maanashkine,maanashkine,VAI,VAI_VV,NONE,UnpublishedOPD
 maadaazhigaa,maadaazhigaa,VII,VII_VV,NONE,UnpublishedOPD
 maajiiyaazhagaame,maajiiyaazhagaame,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/maajiiyaazhagaame-vai
-maamooyawendam,maamooyawendam,VAI,VAI_am,NONE,UnpublishedOPD
+maamooyawendam,maamooyawend,VAI,VAI_am,NONE,UnpublishedOPD
 izhiwanen,izhiwane,VAIO,VAIO,NONE,https://ojibwe.lib.umn.edu/main-entry/izhiwanen-vai-o
 makadewibii'wi,makadewibii'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
 maajii'o,maajii'o,VAI,VAI_V,NONE,UnpublishedOPD
@@ -16632,7 +16632,7 @@ maamakaazinaagwad,maamakaazinaagwad,VII,VII_d,NONE,UnpublishedOPD
 maawandoon,maawandoon,VTA,VTA_C,NONE,UnpublishedOPD
 jiikibatoo,jiikibatoo,VAI,VAI_VV,NONE,UnpublishedOPD
 jiichiibaakonan,jiichiibaakon,VTI,VTI_am,NONE,UnpublishedOPD
-maamakaazinam,maamakaazinam,VAI,VAI_am,NONE,UnpublishedOPD
+maamakaazinam,maamakaazin,VAI,VAI_am,NONE,UnpublishedOPD
 maanaabandam,maanaaband,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/maanaabandam-vai2
 izhinaagiyawe,izhinaagiyawe,VAI,VAI_VV,NONE,UnpublishedOPD
 madwe'igaade,madwe'igaade,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/madwe-igaade-vii
@@ -16643,7 +16643,7 @@ madweyaakwaji,madweyaakwaji,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry
 maajiizhiwe,maajiizhiwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/maajiizhiwe-vai
 jiichiibaakose,jiichiibaakose,VAI,VAI_VV,NONE,UnpublishedOPD
 jaagizodizo,jaagizodizo,VAI,VAI_rfx,NONE,https://ojibwe.lib.umn.edu/main-entry/jaagizodizo-vai
-jiigewa'am,jiigewa'am,VAI,VAI_am,NONE,UnpublishedOPD
+jiigewa'am,jiigewa',VAI,VAI_am,NONE,UnpublishedOPD
 mamaachiigibidoon,mamaachiigibid,VTI,VTI_oo,NONE,UnpublishedOPD
 jiikim,jiikim,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/jiikim-vta
 maamakaazinan,maamakaazin,VTI,VTI_am,NONE,UnpublishedOPD
@@ -16699,7 +16699,7 @@ maadakide,maadakide,VII,VII_VV,NONE,UnpublishedOPD
 maanendan,maanend,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/maanendan-vti
 maajikawe',maajikawe',VTA,VTA_C,NONE,UnpublishedOPD
 jiichiibiingwebinigo,jiichiibiingwebinigo,VAI,VAI_V,NONE,UnpublishedOPD
-maamakaazitam,maamakaazitam,VAI,VAI_am,NONE,UnpublishedOPD
+maamakaazitam,maamakaazit,VAI,VAI_am,NONE,UnpublishedOPD
 mamaadaakwaashi,mamaadaakwaashi,VAI,VAI_V,NONE,UnpublishedOPD
 mamaangidinimaangan,mamaangidinimaangan,VAI,VAI_n,NONE,UnpublishedOPD
 madwe'ise,madwe'ise,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/madwe-ise-vai
@@ -16759,7 +16759,7 @@ jiigewebatoo,jiigewebatoo,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/
 madwebatoo,madwebatoo,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/madwebatoo-vai
 maazhimaandan,maazhimaand,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/maazhimaandan-vti
 mamaangigwane,mamaangigwane,VAI,VAI_VV,NONE,UnpublishedOPD
-maadanaandam,maadanaandam,VAI,VAI_am,NONE,UnpublishedOPD
+maadanaandam,maadanaand,VAI,VAI_am,NONE,UnpublishedOPD
 jiikitan,jiikit,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/jiikitan-vti
 jaajiibinikeni,jaajiibinikeni,VAI,VAI_V,NONE,UnpublishedOPD
 izhiwidamaage,izhiwidamaage,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/izhiwidamaage-vai
@@ -16968,7 +16968,7 @@ maajinizhikan,maajinizhik,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/
 mamagosagizi,mamagosagizi,VAI,VAI_V,NONE,UnpublishedOPD
 maajiidaabaanigo,maajiidaabaanigo,VAI,VAI_V,NONE,UnpublishedOPD
 maawanjisidoon,maawanjisid,VTI,VTI_oo,NONE,UnpublishedOPD
-maada'am,maada'am,VAI,VAI_am,NONE,UnpublishedOPD
+maada'am,maada',VAI,VAI_am,NONE,UnpublishedOPD
 mamaangitagizi,mamaangitagizi,VAI,VAI_V,NONE,UnpublishedOPD
 maminwaajindan,maminwaajind,VTI,VTI_am,NONE,UnpublishedOPD
 magosagad,magosagad,VII,VII_d,NONE,UnpublishedOPD
@@ -17052,7 +17052,7 @@ mamiskosin,mamiskosin,VII,VII_n,NONE,UnpublishedOPD
 maazhipwi,maazhipw1,VTA,VTA_Cw,NONE,UnpublishedOPD
 mamaangizigozi,mamaangizigozi,VAI,VAI_V,NONE,UnpublishedOPD
 maaninaagwad,maaninaagwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/maaninaagwad-vii
-mamaajii'am,mamaajii'am,VAI,VAI_am,NONE,UnpublishedOPD
+mamaajii'am,mamaajii',VAI,VAI_am,NONE,UnpublishedOPD
 maanaajitoon,maanaajit,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/maanaajitoon-vti2
 maajiidaw,maajiidaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/maajiidaw-vta
 mashkawaakadode,mashkawaakadode,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkawaakadode-vii
@@ -17068,7 +17068,7 @@ maawanjizhooniyaawe,maawanjizhooniyaawe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.e
 maazhishim,maazhishim,VTA,VTA_C,NONE,UnpublishedOPD
 mamiskozide,mamiskozide,VAI,VAI_VV,NONE,UnpublishedOPD
 mamaajiikwazhiwe,mamaajiikwazhiwe,VAI,VAI_VV,NONE,UnpublishedOPD
-madwegaminam,madwegaminam,VAI,VAI_am,NONE,UnpublishedOPD
+madwegaminam,madwegamin,VAI,VAI_am,NONE,UnpublishedOPD
 maamawinowag,maamawino,VAIPL,VAIPL_V,NONE,UnpublishedOPD
 mamakise,mamakise,VAI,VAI_VV,NONE,UnpublishedOPD
 mangadetoon,mangadet,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/mangadetoon-vti2
@@ -17187,7 +17187,7 @@ maanishkoode,maanishkoode,VII,VII_VV,NONE,UnpublishedOPD
 magwaagwanezi,magwaagwanezi,VAI,VAI_V,NONE,UnpublishedOPD
 maajitoon,maajit,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/maajitoon-vti2
 maajiigidaazo,maajiigidaazo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/maajiigidaazo-vai
-mamiskwiiwishkam,mamiskwiiwishkam,VAI,VAI_am,NONE,UnpublishedOPD
+mamiskwiiwishkam,mamiskwiiwishk,VAI,VAI_am,NONE,UnpublishedOPD
 makadewaabiigizide,makadewaabiigizide,VAI,VAI_VV,NONE,UnpublishedOPD
 mangadeyaabiigizhan,mangadeyaabiigizh,VTI,VTI_am,NONE,UnpublishedOPD
 maazhiwebin,maazhiwebin,VTA,VTA_C,NONE,UnpublishedOPD
@@ -17301,7 +17301,7 @@ maaki',maaki',VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/maaki-vta
 madwekamigibatoo,madwekamigibatoo,VAI,VAI_VV,NONE,UnpublishedOPD
 manidoominensikaade,manidoominensikaade,VII,VII_VV,NONE,UnpublishedOPD
 mayagendaagwad,mayagendaagwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/mayagendaagwad-vii
-maanaazaabandam,maanaazaabandam,VAI,VAI_am,NONE,UnpublishedOPD
+maanaazaabandam,maanaazaaband,VAI,VAI_am,NONE,UnpublishedOPD
 mashkawaakwajigaadewaji,mashkawaakwajigaadewaji,VAI,VAI_V,NONE,UnpublishedOPD
 mamaanjigogaadeshkaw,mamaanjigogaadeshkaw,VTA,VTA_aw,NONE,UnpublishedOPD
 majendan,majend,VTI,VTI_am,NONE,UnpublishedOPD
@@ -17424,7 +17424,7 @@ maanitam,maanit,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/maanitam-v
 madwem,madwem,VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/madwem-vta
 maakinaw,maakinaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/maakinaw-vta
 maajiikan,maajiik,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/maajiikan-vti
-maji-doodam,maji-doodam,VAI,VAI_am,NONE,UnpublishedOPD
+maji-doodam,maji-dood,VAI,VAI_am,NONE,UnpublishedOPD
 mamaanaajimo,mamaanaajimo,VAI,VAI_V,NONE,UnpublishedOPD
 mashkawipogwad,mashkawipogwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkawipogwad-vii
 mamoon,mam,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/mamoon-vti2
@@ -17490,7 +17490,7 @@ makadewaanowe,makadewaanowe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entr
 mamaanaake,mamaanaake,VAI,VAI_VV,NONE,UnpublishedOPD
 mana'ibime,mana'ibime,VAI,VAI_VV,NONE,UnpublishedOPD
 mamaanjigoshkaw,mamaanjigoshkaw,VTA,VTA_aw,NONE,UnpublishedOPD
-maji-inendam,maji-inendam,VAI,VAI_am,NONE,UnpublishedOPD
+maji-inendam,maji-inend,VAI,VAI_am,NONE,UnpublishedOPD
 mayagi',mayagi',VTA,VTA_C,NONE,UnpublishedOPD
 mashkawisidoon,mashkawisid,VTI,VTI_oo,NONE,UnpublishedOPD
 madaabiidaabii'iwe,madaabiidaabii'iwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/madaabiidaabii-iwe-vai
@@ -17556,7 +17556,7 @@ manaadin,manaadin,VTA,VTA_C,NONE,UnpublishedOPD
 maazhichige,maazhichige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/maazhichige-vai
 makadewaanzo,makadewaanzo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/makadewaanzo-vai
 mayagigin,mayagigin,VII,VII_n,NONE,UnpublishedOPD
-meshkwadendam,meshkwadendam,VAI,VAI_am,NONE,UnpublishedOPD
+meshkwadendam,meshkwadend,VAI,VAI_am,NONE,UnpublishedOPD
 madwesagibatoo,madwesagibatoo,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/madwesagibatoo-vai
 mashkawaasin,mashkawaasin,VII,VII_n,NONE,UnpublishedOPD
 mazinaabii'ige,mazinaabii'ige,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -17897,7 +17897,7 @@ manoominaganzhikaa,manoominaganzhikaa,VII,VII_VV,NONE,UnpublishedOPD
 mazinise,mazinise,VII,VII_VV,NONE,UnpublishedOPD
 madweweyaakoneshkige,madweweyaakoneshkige,VAI,VAI_VV,NONE,UnpublishedOPD
 mawinadan,mawinad,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/mawinadan-vti
-mayagwe-ozosodam,mayagwe-ozosodam,VAI,VAI_am,NONE,UnpublishedOPD
+mayagwe-ozosodam,mayagwe-ozosod,VAI,VAI_am,NONE,UnpublishedOPD
 mamaanganowe,mamaanganowe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mamaanganowe-vai
 makadewi-ayaa,makadewi-ayaa,VAI,VAI_VV,NONE,UnpublishedOPD
 madaji,madaji,VAI,VAI_V,NONE,UnpublishedOPD
@@ -17963,7 +17963,7 @@ madweyaabikijige,madweyaabikijige,VAI,VAI_VV,NONE,UnpublishedOPD
 mawinazhiwe,mawinazhiwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mawinazhiwe-vai
 mashkiigwaatigokaa,mashkiigwaatigokaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkiigwaatigokaa-vii
 mamikawaabam,mamikawaabam,VTA,VTA_C,NONE,UnpublishedOPD
-memeshkwadendam,memeshkwadendam,VAI,VAI_am,NONE,UnpublishedOPD
+memeshkwadendam,memeshkwadend,VAI,VAI_am,NONE,UnpublishedOPD
 mangikone,mangikone,VAI,VAI_VV,NONE,UnpublishedOPD
 mashkawegad,mashkawegad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkawegad-vii
 mangaabikizi,mangaabikizi,VAI,VAI_V,NONE,UnpublishedOPD
@@ -18059,7 +18059,7 @@ mangade',mangade',VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/mangade-v
 mashkawi-ayaa,mashkawi-ayaa,VII,VII_VV,NONE,UnpublishedOPD
 mechibidoon,mechibid,VTI,VTI_oo,NONE,UnpublishedOPD
 mashkawi',mashkawi',VTA,VTA_C,NONE,UnpublishedOPD
-mendaadendam,mendaadendam,VAI,VAI_am,NONE,UnpublishedOPD
+mendaadendam,mendaadend,VAI,VAI_am,NONE,UnpublishedOPD
 mawingwaami,mawingwaami,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/mawingwaami-vai
 mashkikiikaade,mashkikiikaade,VII,VII_VV,NONE,UnpublishedOPD
 mechiboode,mechiboode,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mechiboode-vii
@@ -18650,7 +18650,7 @@ maamiijin,maamiiji,VTI,VTI_i,NONE,https://ojibwe.lib.umn.edu/main-entry/miijin-v
 miisaakodoon,miisaakodoon,VAI,VAI_n,NONE,UnpublishedOPD
 minjimaakwa',minjimaakwa'w1,VTA,VTA_Cw,NONE,UnpublishedOPD
 mikoganaandan,mikoganaand,VTI,VTI_am,NONE,UnpublishedOPD
-minwaagaadendam,minwaagaadendam,VAI,VAI_am,NONE,UnpublishedOPD
+minwaagaadendam,minwaagaadend,VAI,VAI_am,NONE,UnpublishedOPD
 minokodan,minokod,VTI,VTI_am,NONE,UnpublishedOPD
 migoshkaaji'iwe,migoshkaaji'iwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/migoshkaaji-iwe-vai
 minjimaakwa'an,minjimaakwa',VTI,VTI_am,NONE,UnpublishedOPD
@@ -18711,7 +18711,7 @@ minaadendaagozi,minaadendaagozi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-e
 minomaago',minomaago',VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/minomaago-vta
 minwaagamisin,minwaagamisin,VII,VII_n,NONE,UnpublishedOPD
 migoshkaajishin,migoshkaajishin,VAI,VAI_n,NONE,UnpublishedOPD
-minaadendam,minaadendam,VAI,VAI_am,NONE,UnpublishedOPD
+minaadendam,minaadend,VAI,VAI_am,NONE,UnpublishedOPD
 mitigwaaso,mitigwaaso,VAI,VAI_V,NONE,UnpublishedOPD
 midaasoopizh,midaasoopin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/midaasoopizh-vta
 minwaagamitoon,minwaagamit,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/minwaagamitoon-vti2
@@ -18941,7 +18941,7 @@ miishigaade,miishigaade,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/mi
 michiingweshin,michiingweshin,VAI,VAI_n,NONE,https://ojibwe.lib.umn.edu/main-entry/michiingweshin-vai
 miskwadisan,miskwadis,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/miskwadisan-vti
 minawaanigonaagozi,minawaanigonaagozi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/minawaanigonaagozi-vai
-miidaagwendam,miidaagwendam,VAI,VAI_am,NONE,UnpublishedOPD
+miidaagwendam,miidaagwend,VAI,VAI_am,NONE,UnpublishedOPD
 mooshkina'oozh,mooshkina'oon1,VTA,VTA_n,NONE,UnpublishedOPD
 mitaakwazheshimo,mitaakwazheshimo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/mitaakwazheshimo-vai
 miidaagweshim,miidaagweshim,VTA,VTA_C,NONE,UnpublishedOPD
@@ -18998,7 +18998,7 @@ miskojii,miskojii,VAI,VAI_VV,NONE,UnpublishedOPD
 mookobizh,mookobin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/mookobizh-vta
 naaba'oozh,naaba'oon1,VTA,VTA_n,NONE,UnpublishedOPD
 mishakwad,mishakwad,VII,VII_d,NONE,UnpublishedOPD
-mikoshkaadendam,mikoshkaadendam,VAI,VAI_am,NONE,UnpublishedOPD
+mikoshkaadendam,mikoshkaadend,VAI,VAI_am,NONE,UnpublishedOPD
 mitaandagagaa,mitaandagagaa,VII,VII_VV,NONE,UnpublishedOPD
 miziwedin,miziwedin,VII,VII_n,NONE,https://ojibwe.lib.umn.edu/main-entry/miziwedin-vii
 minwaanz,minwaanzw1,VTA,VTA_Cw,NONE,UnpublishedOPD
@@ -19074,7 +19074,7 @@ naabaajiwanzan,naabaajiwanz,VTI,VTI_am,NONE,UnpublishedOPD
 minwaasin,minwaasin,VII,VII_n,NONE,UnpublishedOPD
 miziwese,miziwese,VII,VII_VV,NONE,UnpublishedOPD
 na'aabaminaagwad,na'aabaminaagwad,VII,VII_d,NONE,UnpublishedOPD
-mishawashkiiga'am,mishawashkiiga'am,VAI,VAI_am,NONE,UnpublishedOPD
+mishawashkiiga'am,mishawashkiiga',VAI,VAI_am,NONE,UnpublishedOPD
 miishiingwe,miishiingwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/miishiingwe-vai
 miigaadenindiwag,miigaadenindi,VAI,VAI_rcp,NONE,https://ojibwe.lib.umn.edu/main-entry/miigaadenindiwag-vai
 mikwaanikaadan,mikwaanikaad,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/mikwaanikaadan-vti
@@ -19822,7 +19822,7 @@ naananinoon,naananin,VII,VII_n,NONE,https://ojibwe.lib.umn.edu/main-entry/naanan
 naajimanoomine,naajimanoomine,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/naajimanoomine-vai
 minwewe,minwewe,VII,VII_VV,NONE,UnpublishedOPD
 minogi',minogi',VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/minogi-vta
-minwa'am,minwa'am,VAI,VAI_am,NONE,UnpublishedOPD
+minwa'am,minwa',VAI,VAI_am,NONE,UnpublishedOPD
 naawibii,naawibii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/naawibii-vai
 naangaabiigad,naangaabiigad,VII,VII_d,NONE,UnpublishedOPD
 moona'ipinii,moona'ipinii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/moona-ipinii-vai
@@ -20204,7 +20204,7 @@ naanginigwad,naanginigwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/n
 nanaangawim,nanaangawim,VTA,VTA_C,NONE,UnpublishedOPD
 nagwaazh,nagwaan1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/nagwaazh-vta
 naniizaanitaagwad,naniizaanitaagwad,VII,VII_d,NONE,UnpublishedOPD
-mooshka'am,mooshka'am,VAI,VAI_am,NONE,UnpublishedOPD
+mooshka'am,mooshka',VAI,VAI_am,NONE,UnpublishedOPD
 naawitaagwad,naawitaagwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/naawitaagwad-vii
 naajishimotaw,naajishimotaw,VTA,VTA_aw,NONE,UnpublishedOPD
 nandodan,nandod,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/nandodan-vti
@@ -20342,7 +20342,7 @@ nabagibagaa,nabagibagaa,VII,VII_VV,NONE,UnpublishedOPD
 nanaapidootan,nanaapidoot,VTI,VTI_am,NONE,UnpublishedOPD
 naangizigwad,naangizigwad,VII,VII_d,NONE,UnpublishedOPD
 naawadad,naawadad,VII,VII_d,NONE,UnpublishedOPD
-naadinise'am,naadinise'am,VAI,VAI_am,NONE,UnpublishedOPD
+naadinise'am,naadinise',VAI,VAI_am,NONE,UnpublishedOPD
 nameke,nameke,VAI,VAI_VV,NONE,UnpublishedOPD
 naningibidoon,naningibid,VTI,VTI_oo,NONE,UnpublishedOPD
 nagadamaw,nagadamaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/nagadamaw-vta
@@ -20432,7 +20432,7 @@ naanigibidoon,naanigibid,VTI,VTI_oo,NONE,https://ojibwe.lib.umn.edu/main-entry/n
 naazhaaboode,naazhaaboode,VII,VII_VV,NONE,UnpublishedOPD
 nagadanokii,nagadanokii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/nagadanokii-vai
 naabishin,naabishin,VAI,VAI_n,NONE,UnpublishedOPD
-naamiwana'am,naamiwana'am,VAI,VAI_am,NONE,UnpublishedOPD
+naamiwana'am,naamiwana',VAI,VAI_am,NONE,UnpublishedOPD
 naanoojibizo,naanoojibizo,VAI,VAI_V,NONE,UnpublishedOPD
 naninginikebizo,naninginikebizo,VAI,VAI_V,NONE,UnpublishedOPD
 nanagaase,nanagaase,VII,VII_VV,NONE,UnpublishedOPD
@@ -20455,7 +20455,7 @@ nanagaawebinidiwag,nanagaawebinidi,VAI,VAI_rcp,NONE,UnpublishedOPD
 nabaneyaa,nabaneyaa,VII,VII_VV,NONE,UnpublishedOPD
 nakwebii'amaw,nakwebii'amaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/nakwebii-amaw-vta
 nabagiga'an,nabagiga',VTI,VTI_am,NONE,UnpublishedOPD
-naanookamoog,naanookam,VAIPL,VAIPL_am,NONE,UnpublishedOPD
+naanookamoog,naanook,VAIPL,VAIPL_am,NONE,UnpublishedOPD
 naamiwanaa'ogo,naamiwanaa'ogo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/naamiwanaa-ogo-vai
 naadoono,naadoono,VAI,VAI_V,NONE,UnpublishedOPD
 naazhaakose,naazhaakose,VII,VII_VV,NONE,UnpublishedOPD
@@ -20492,7 +20492,7 @@ naazhaatenan,naazhaaten,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/na
 nanaginiwe,nanaginiwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/nanaginiwe-vai
 nametegokaazh,nametegokaan1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/nametegokoozh-vta
 naanigigazhaam,naanigigazhaam,VTA,VTA_C,NONE,UnpublishedOPD
-naawakiinam,naawakiinam,VAI,VAI_am,NONE,UnpublishedOPD
+naawakiinam,naawakiin,VAI,VAI_am,NONE,UnpublishedOPD
 naanoomikweni,naanoomikweni,VAI,VAI_V,NONE,UnpublishedOPD
 naningitaagwad,naningitaagwad,VII,VII_d,NONE,UnpublishedOPD
 nagadizekwe,nagadizekwe,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -20516,7 +20516,7 @@ naazhaatenige,naazhaatenige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entr
 nakwebizh,nakwebin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/nakwebizh-vta
 naanigishkan,naanigishk,VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/naanigishkan-vti
 nabogaadeshkoozo,nabogaadeshkoozo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/nabogaadeshkoozo-vai
-naawakiishkam,naawakiishkam,VAI,VAI_am,NONE,UnpublishedOPD
+naawakiishkam,naawakiishk,VAI,VAI_am,NONE,UnpublishedOPD
 nabagijaane,nabagijaane,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/nabagijaane-vai
 nanishkindiwag,nanishkindi,VAI,VAI_rcp,NONE,UnpublishedOPD
 nandoobii,nandoobii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/nandoobii-vai
@@ -21162,7 +21162,7 @@ nibemanji'o,nibemanji'o,VAI,VAI_V,NONE,UnpublishedOPD
 nichiiwaanakwad,nichiiwaanakwad,VII,VII_d,NONE,UnpublishedOPD
 niiskademo,niiskademo,VAI,VAI_V,NONE,UnpublishedOPD
 niibideyaadagaawag,nibideyaadagaa,VAIPL,VAIPL_VV,NONE,UnpublishedOPD
-napaadookam,napaadookam,VAI,VAI_am,NONE,UnpublishedOPD
+napaadookam,napaadook,VAI,VAI_am,NONE,UnpublishedOPD
 nibendaage,nibendaage,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/nibendaage-vai
 niishtana-shi-ningodwaaswaginzo,niishtana-shi-ningodwaaswaginzo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/niishtana-ashi-ingodwaaswaginzo-vai
 niiskate,niiskate,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/niiskate-vii
@@ -21234,7 +21234,7 @@ niimigimiwanibiinzikige,niimigimiwanibiinzikige,VAI,VAI_VV,NONE,UnpublishedOPD
 neniizhoobizowag,neniizhoobizo,VAIPL,VAIPL_V,NONE,UnpublishedOPD
 niiskibidoon,niiskibid,VTI,VTI_oo,NONE,UnpublishedOPD
 napaajibide,napaajibide,VII,VII_VV,NONE,UnpublishedOPD
-niiwookamoog,niiwookam,VAIPL,VAIPL_am,NONE,UnpublishedOPD
+niiwookamoog,niiwook,VAIPL,VAIPL_am,NONE,UnpublishedOPD
 niizhookizowag,niizhookizo,VAIPL,VAIPL_V,NONE,UnpublishedOPD
 nichiiwimaaso,nichiiwimaaso,VAI,VAI_V,NONE,UnpublishedOPD
 neniizhoogoojinoog,neniizhoogoojin,VAIPL,VAIPL_n,NONE,UnpublishedOPD
@@ -21269,7 +21269,7 @@ niiskigwaneni,niiskigwaneni,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry
 niizhoonagipijige,niizhoonagipijige,VAI,VAI_VV,NONE,UnpublishedOPD
 nawegaabawi,nawegaabawi,VAI,VAI_V,NONE,UnpublishedOPD
 niigozan,niigoz,VTI,VTI_am,NONE,UnpublishedOPD
-nichiwakwa'am,nichiwakwa'am,VAI,VAI_am,NONE,UnpublishedOPD
+nichiwakwa'am,nichiwakwa',VAI,VAI_am,NONE,UnpublishedOPD
 niimiisa'amii,niimiisa'amii,VAI,VAI_VV,NONE,UnpublishedOPD
 niizhoonagiziwag,niizhoonagizi,VAIPL,VAIPL_V,NONE,https://ojibwe.lib.umn.edu/main-entry/niizhoonagiziwag-vai
 neniizhwegishkan,neniizhwegishk,VTI,VTI_am,NONE,UnpublishedOPD
@@ -21532,7 +21532,7 @@ neshangagoode,neshangagoode,VII,VII_VV,NONE,UnpublishedOPD
 nazikwe',nazikwe'w1,VTA,VTA_Cw,NONE,https://ojibwe.lib.umn.edu/main-entry/nazikwe-vta
 niisiigizhan,niisiigizh,VTI,VTI_am,NONE,UnpublishedOPD
 nibaabiwag,nibaabi,VAIPL,VAIPL_V,NONE,UnpublishedOPD
-niminaawa'am,niminaawa'am,VAI,VAI_am,NONE,UnpublishedOPD
+niminaawa'am,niminaawa',VAI,VAI_am,NONE,UnpublishedOPD
 niiswebinan,niiswebin,VTI,VTI_am,NONE,UnpublishedOPD
 niizhootaagoziwag,niizhootaagozi,VAIPL,VAIPL_V,NONE,UnpublishedOPD
 niisaakiiwe-ayaa,niisaakiiwe-ayaa,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -22363,7 +22363,7 @@ nisaanendamookaazo,nisaanendamookaazo,VAI,VAI_V,NONE,UnpublishedOPD
 niso-gikinoonowagad,niso-gikinoonowagad,VII,VII_d,NONE,UnpublishedOPD
 niizhookawewag,niizhookawe,VAIPL,VAIPL_VV,NONE,UnpublishedOPD
 ningo-biboonagizi,ningo-biboonagizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/ningo-biboonagizi-vai
-nitaawa'am,nitaawa'am,VAI,VAI_am,NONE,UnpublishedOPD
+nitaawa'am,nitaawa',VAI,VAI_am,NONE,UnpublishedOPD
 odasemaansimi,odasemaansimi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/odasemaansimi-vai
 obashkwezigaami,obashkwezigaami,VAI,VAI_V,NONE,UnpublishedOPD
 niizhwaaso-giiziswagad,niizhwaaso-giiziswagad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/niizhwaaso-giiziswagad-vii
@@ -22747,7 +22747,7 @@ nookijii,nookijii,VAI,VAI_VV,NONE,UnpublishedOPD
 odedeyi,odedeyi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/odedeyi-vai
 nitamabi,nitamabi,VAI,VAI_V,NONE,UnpublishedOPD
 noondaagotamaw,noondaagotamaw,VTA,VTA_aw,NONE,UnpublishedOPD
-nisookamoog,nisookam,VAIPL,VAIPL_am,NONE,UnpublishedOPD
+nisookamoog,nisook,VAIPL,VAIPL_am,NONE,UnpublishedOPD
 noozh,noon1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/noozh-vta
 nookijiin,nookijiin,VTA,VTA_C,NONE,UnpublishedOPD
 odaapinamaw,odaapinamaw,VTA,VTA_aw,NONE,https://ojibwe.lib.umn.edu/main-entry/odaapinamaw-vta
@@ -22996,6 +22996,7 @@ noomaabikinigaade,noomaabikinigaade,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/m
 noondewagenimo,noondewagenimo,VAI,VAI_V,NONE,UnpublishedOPD
 obaabaayi,obaabaayi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/obaabaayi-vai
 noondewaji,noondewaji,VAI,VAI_V,NONE,UnpublishedOPD
+odaabii'iwetamaw,odaabii'iwetamaw,VTA,VTA_aw,NONE,UnpublishedOPD
 oditaw,oditaw,VTA,VTA_aw,NONE,UnpublishedOPD
 ogiizhikimi,ogiizhikimi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/ogiizhikimi-vai
 noondewidoon,noondewid,VTI,VTI_oo,NONE,UnpublishedOPD
@@ -28584,7 +28585,7 @@ zhoomiingweshkaa,zhoomiingweshkaa,VAI,VAI_VV,NONE,UnpublishedOPD
 zhishigwaabika'an,zhishigwaabika',VTI,VTI_am,NONE,UnpublishedOPD
 zhingakamigisin,zhingakamigisin,VII,VII_n,NONE,UnpublishedOPD
 zoongiiwagad,zoongiiwagad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/zoongiiwagad-vii
-baaskaazigonam,baaskaazigonam,VAI,VAI_am,NONE,UnpublishedOPD
+baaskaazigonam,baaskaazigon,VAI,VAI_am,NONE,UnpublishedOPD
 ziiziindiyaandan,ziiziindiyaand,VTI,VTI_am,NONE,UnpublishedOPD
 ziigosin,ziigosin,VII,VII_n,NONE,UnpublishedOPD
 ziindawise,ziindawise,VII,VII_VV,NONE,UnpublishedOPD
@@ -28849,7 +28850,7 @@ biskizi,biskizi,VAI,VAI_V,NONE,UnpublishedOPD
 gopajise,gopajise,VAI,VAI_VV,NONE,UnpublishedOPD
 inigokwadeyaabiigizi,inigokwadeyaabiigizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/inigokwadeyaabiigizi-vai
 zinigobikwanen,zinigobikwanen,VTA,VTA_C,NONE,UnpublishedOPD
-bana'am,bana'am,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/bana-am-vai2
+bana'am,bana',VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/bana-am-vai2
 zoosoobandan,zoosooband,VTI,VTI_am,NONE,UnpublishedOPD
 zhooshkwaanikwe,zhooshkwaanikwe,VAI,VAI_VV,NONE,UnpublishedOPD
 aapiji-wiidigendiwag,aapiji-wiidigendi,VAI,VAI_rcp,NONE,UnpublishedOPD
@@ -28983,7 +28984,7 @@ ashi-bezhigonagizi,ashi-bezhigonagizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/
 manashkwe,manashkwe,VAI,VAI_VV,NONE,UnpublishedOPD
 goshkokwese,goshkokwese,VAI,VAI_VV,NONE,UnpublishedOPD
 aabijibizo,aabijibizo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/aabijibizo-vai
-bizokam,bizokam,VAI,VAI_am,NONE,UnpublishedOPD
+bizokam,bizok,VAI,VAI_am,NONE,UnpublishedOPD
 ziigadaawangisin,ziigadaawangisin,VII,VII_n,NONE,UnpublishedOPD
 zhooshkwakamiga'an,zhooshkwakamiga',VTI,VTI_am,NONE,UnpublishedOPD
 babaamiwebishkige,babaamiwebishkige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/babaamiwebishkige-vai
@@ -29204,7 +29205,7 @@ ziikoobiigibizh,ziikoobiigibin1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-e
 nabaneyaabi,nabaneyaabi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/nabaneyaabi-vai
 ziinjisin,ziinjisin,VII,VII_n,NONE,UnpublishedOPD
 bookoshkaa,bookoshkaa,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/bookoshkaa-vai
-aayezhinam,aayezhinam,VAI,VAI_am,NONE,UnpublishedOPD
+aayezhinam,aayezhin,VAI,VAI_am,NONE,UnpublishedOPD
 zinigondibebinidizo,zinigondibebinidizo,VAI,VAI_rfx,NONE,UnpublishedOPD
 aaboojibizo,aaboojibizo,VAI,VAI_V,NONE,UnpublishedOPD
 minogaabawi,minogaabawi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/minogaabawi-vai
@@ -29240,7 +29241,7 @@ babiiwigiziwag,babiiwigizi,VAIPL,VAIPL_V,NONE,UnpublishedOPD
 bookwaabikise,bookwaabikise,VAI,VAI_VV,NONE,UnpublishedOPD
 maanadaawe,maanadaawe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/maanadaawe-vai
 aaboojishin,aaboojishin,VAI,VAI_n,NONE,UnpublishedOPD
-gashki-dibikinam,gashki-dibikinam,VAI,VAI_am,NONE,UnpublishedOPD
+gashki-dibikinam,gashki-dibikin,VAI,VAI_am,NONE,UnpublishedOPD
 zoongaanimad,zoongaanimad,VII,VII_d,NONE,UnpublishedOPD
 mashkawaabiigizi,mashkawaabiigizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/mashkawaabiigizi-vai
 nagaabizo,nagaabizo,VAI,VAI_V,NONE,UnpublishedOPD
@@ -29271,7 +29272,7 @@ gotigobizo,gotigobizo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gotig
 maanamanji'o,maanamanji'o,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/maanamanji-o-vai
 bookwaawigan,bookwaawigan,VAI,VAI_n,NONE,UnpublishedOPD
 anaamendaagozi,anaamendaagozi,VAI,VAI_V,NONE,UnpublishedOPD
-diba'am,diba'am,VAI,VAI_am,NONE,UnpublishedOPD
+diba'am,diba',VAI,VAI_am,NONE,UnpublishedOPD
 mashkawaadizi,mashkawaadizi,VAI,VAI_V,NONE,UnpublishedOPD
 bashkwashkizhige,bashkwashkizhige,VAI,VAI_VV,NONE,UnpublishedOPD
 niisiiweshkaa,niisiiweshkaa,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -29295,7 +29296,7 @@ anaamenindiwag,anaamenindi,VAI,VAI_rcp,NONE,https://ojibwe.lib.umn.edu/main-entr
 minose,minose,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/minose-vai
 nagadenindiwag,nagadenindi,VAI,VAI_rcp,NONE,https://ojibwe.lib.umn.edu/main-entry/nagadenindiwag-vai
 niiskawe,niiskawe,VAI,VAI_VV,NONE,UnpublishedOPD
-aazhawaabika'am,aazhawaabika'am,VAI,VAI_am,NONE,UnpublishedOPD
+aazhawaabika'am,aazhawaabika',VAI,VAI_am,NONE,UnpublishedOPD
 zoongad,zoongad,VII,VII_d,NONE,UnpublishedOPD
 odaapinigaazo,odaapinigaazo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/odaapinigaazo-vai
 biisanaamo,biisanaamo,VAI,VAI_V,NONE,UnpublishedOPD
@@ -29519,7 +29520,7 @@ aakwaakwadozo,aakwaakwadozo,VAI,VAI_V,NONE,UnpublishedOPD
 aazhooshkaa,aazhooshkaa,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/aazhooshkaa-vai
 nanaa'isijige,nanaa'isijige,VAI,VAI_VV,NONE,UnpublishedOPD
 biizikonaye,biizikonaye,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/biizikonaye-vai
-dibikinam,dibikinam,VAI,VAI_am,NONE,UnpublishedOPD
+dibikinam,dibikin,VAI,VAI_am,NONE,UnpublishedOPD
 waawiinzo,waawiinzo,VAI,VAI_V,NONE,UnpublishedOPD
 geshawaakoshin,geshawaakoshin,VAI,VAI_n,NONE,UnpublishedOPD
 niizhoobii'igewag,niizhoobii'ige,VAIPL,VAIPL_VV,NONE,UnpublishedOPD
@@ -30235,7 +30236,7 @@ danaajimo,danaajimo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/danaaji
 anishinaabewinaagozi,anishinaabewinaagozi,VAI,VAI_V,NONE,UnpublishedOPD
 moojigitwaa,moojigitwaa,VAI,VAI_VV,NONE,UnpublishedOPD
 zakaabi,zakaabi,VAI,VAI_V,NONE,UnpublishedOPD
-makadewinam,makadewinam,VAI,VAI_am,NONE,UnpublishedOPD
+makadewinam,makadewin,VAI,VAI_am,NONE,UnpublishedOPD
 ozaawegizi,ozaawegizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/ozaawegizi-vai
 biidwewidam,biidwewid,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/biidwewidam-vai2
 jaagaganaanzo,jaagaganaanzo,VAI,VAI_V,NONE,UnpublishedOPD
@@ -30348,7 +30349,7 @@ jaka'ige,jaka'ige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/jaka-ige
 danwewebizo,danwewebizo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/danwewebizo-vai
 moonendam,moonend,VAI,VAI_am,NONE,UnpublishedOPD
 zanagendam,zanagend,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/zanagendam-vai2
-gigagaanzitam,gigagaanzitam,VAI,VAI_am,NONE,UnpublishedOPD
+gigagaanzitam,gigagaanzit,VAI,VAI_am,NONE,UnpublishedOPD
 bimweweshin,bimweweshin,VAI,VAI_n,NONE,https://ojibwe.lib.umn.edu/main-entry/bimweweshin-vai
 nibiiwijaane,nibiiwijaane,VAI,VAI_VV,NONE,UnpublishedOPD
 nitaawigitamaage,nitaawigitamaage,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -30883,7 +30884,7 @@ goshkobani'o,goshkobani'o,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/g
 biidaatese,biidaatese,VII,VII_VV,NONE,UnpublishedOPD
 zhaabwakwazhiwe,zhaabwakwazhiwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/zhaabokwazhiwe-vai
 gawewemo,gawewemo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gawewemo-vai
-gopa'am,gopa'am,VAI,VAI_am,NONE,UnpublishedOPD
+gopa'am,gopa',VAI,VAI_am,NONE,UnpublishedOPD
 niiskishin,niiskishin,VAI,VAI_n,NONE,UnpublishedOPD
 gidaatabii,gidaatabii,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gidaatabii-vai
 aazhigidagoojin,aazhigidagoojin,VAI,VAI_n,NONE,https://ojibwe.lib.umn.edu/main-entry/aazhigidagoojin-vai
@@ -30969,7 +30970,7 @@ nandoojiinige,nandoojiinige,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entr
 zoongigizi,zoongigizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/zoongigizi-vai
 gijise,gijise,VAI,VAI_VV,NONE,UnpublishedOPD
 apiitaadizi,apiitaadizi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/apiitaadizi-vai
-inikwe'am,inikwe'am,VAI,VAI_am,NONE,UnpublishedOPD
+inikwe'am,inikwe',VAI,VAI_am,NONE,UnpublishedOPD
 miigwechiwi'iwe,miigwechiwi'iwe,VAI,VAI_VV,NONE,UnpublishedOPD
 jiingweweshkaa,jiingweweshkaa,VAI,VAI_VV,NONE,UnpublishedOPD
 goopadendaagozi,goopadendaagozi,VAI,VAI_V,NONE,UnpublishedOPD
@@ -33219,7 +33220,7 @@ dakwananii,dakwananii,VAI,VAI_VV,NONE,UnpublishedOPD
 dibitwaa,dibitwaa,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/dibitwaa-vai
 gijigadinaa,gijigadinaa,VII,VII_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gijigadinaa-vii
 gijigemikwaane,gijigemikwaane,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/gijigemikwaane-vai
-megwaatam,megwaatam,VAI,VAI_am,NONE,UnpublishedOPD
+megwaatam,megwaat,VAI,VAI_am,NONE,UnpublishedOPD
 oziigishkiinzhigwe,oziigishkiinzhigwe,VAI,VAI_VV,NONE,https://ojibwe.lib.umn.edu/main-entry/oziigishkiinzhigwe-vai
 oziigishkiinzhigwewadinaa,oziigishkiinzhigwewadinaa,VII,VII_VV,NONE,UnpublishedOPD
 niibideyaabanigoziwag,niibideyaabanigozi,VAIPL,VAIPL_V,NONE,https://ojibwe.lib.umn.edu/main-entry/niibideyaabanigoziwag-vai
@@ -33921,7 +33922,7 @@ gaashaabika'an,gaashaabika',VTI,VTI_am,NONE,https://ojibwe.lib.umn.edu/main-entr
 gaashaakizo,gaashaakizo,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gaashaakizo-vai
 gaashizigozi,gaashizigozi,VAI,VAI_V,NONE,https://ojibwe.lib.umn.edu/main-entry/gaashizigozi-vai
 na'inaagwad,na'inaagwad,VII,VII_d,NONE,https://ojibwe.lib.umn.edu/main-entry/na-inaagwad-vii
-maameshkodendam,maameshkodend,VAI,VAI_m,NONE,https://ojibwe.lib.umn.edu/main-entry/maameshkodendam-vai
+maameshkodendam,maameshkodend,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/maameshkodendam-vai
 giizikoozh,giizikoon1,VTA,VTA_n,NONE,https://ojibwe.lib.umn.edu/main-entry/giizikoozh-vta
 ogidadewenam,ogidadewen,VAI,VAI_am,NONE,https://ojibwe.lib.umn.edu/main-entry/ogidadewenam-vai2
 biitakizine',biitakizine',VTA,VTA_C,NONE,https://ojibwe.lib.umn.edu/main-entry/biitakizine-vta
@@ -34849,7 +34850,7 @@ bapagone'igaade,bapagone'igaade,VII,VII_VV,NONE,UnpublishedOPD
 abaakizan,abaakiz,VTI,VTI_am,NONE,UnpublishedOPD
 ogitigaani,ogitigaani,VAI,VAI_V,NONE,UnpublishedOPD
 ma'ibaadan,ma'ibaad,VTI,VTI_am,NONE,UnpublishedOPD
-naama'am,naama'=am,VAI,VAI_am,NONE,UnpublishedOPD
+naama'am,naama'=,VAI,VAI_am,NONE,UnpublishedOPD
 naama'aanigwad,naama'aanigwad,VII,VII_d,NONE,UnpublishedOPD
 naamiwanaanimad,naamiwanaanimad,VII,VII_d,NONE,UnpublishedOPD
 maamooshkine,maamooshkine,VAI,VAI_VV,NONE,UnpublishedOPD
@@ -37641,7 +37642,7 @@ baakaakwadin,baakaakwadin,VII,VII_n,NONE,UnpublishedOPD
 baakaakwaji,baakaakwaji,VAI,VAI_V,NONE,UnpublishedOPD
 baashkijiishkoode,baashkijiishkoode,VII,VII_VV,NONE,UnpublishedOPD
 baashkijiishkoozo,baashkijiishkoozo,VAI,VAI_V,NONE,UnpublishedOPD
-baashkikwe'amoog,baashkikwe'am,VAIPL,VAIPL_am,NONE,UnpublishedOPD
+baashkikwe'amoog,baashkikwe',VAIPL,VAIPL_am,NONE,UnpublishedOPD
 baashkiminii'an,baashkiminii',VTI,VTI_am,NONE,UnpublishedOPD
 baashkiminiise,baashkiminiise,VAI,VAI_VV,NONE,UnpublishedOPD
 biigwanagweshkaa,biigwanagweshkaa,VAI,VAI_VV,NONE,UnpublishedOPD
