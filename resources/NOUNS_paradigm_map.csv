@@ -4,7 +4,7 @@ NI,NI_ShortCy,ni,NONE,^.*(gichigami|azhashki|aki|mini|abwi|bingwi|nibi|minisi|an
 NI,NI_ShortC,ni,NONE,^.*(mishi|misan)$,pl,NONE,loc,NONE
 NA,NA_ShortCw,na,NONE,^.*(makwa|ikwa)$,pl,NONE,loc,NONE
 NA,NA_ShortC,na,NONE,^.*nika$,pl,NONE,loc,NONE
-NI,NA_Cy,na,^.*asabikeyaaby$,NONE,pl,NONE,loc,NONE
+NA,NA_Cy,na,^.*(asabikeyaaby|mizhy)$,NONE,pl,NONE,loc,NONE
 NA,NA_VVny,na,^.*(giigoonh|gaaski-giigoonh|gaagiigidoo-bineshiinh),NONE,pl,NONE,loc,NONE
 NA,NA_Cy,na,^.*[bcdfghjklmnpstwyz']y$,NONE,pl,^.*iig,loc,NONE
 NA,NA_VVny,na,^.*nh?y$,NONE,pl,NONE,loc,NONE
@@ -16,7 +16,7 @@ NA,NA_irrCw,na,^.*[bcdfghjklmnpstwyz']w$,NONE,pl,^.*wag$,loc,NONE
 NA,NA_Cw,na,^.*[bcdfghjklmnpstwyz']w$,NONE,pl,NONE,loc,NONE
 NA,NA_C,na,^.*[bcdfghjklmnpstwyz']$,NONE,pl,NONE,loc,NONE
 NI,NI_aa,ni,^.*[bcdfghjklmnpstwyz']$,^.*[bcdfghjklmnpstwyz']$,pl,NONE,loc,^.*aang$
-NI,NI_Cy,ni,^.*(nabooby|ataagiby|wiinzoby|wanakoshkinzhy|ninjy)$,NONE,pl,NONE,pl,NONE
+NI,NI_Cy,ni,^.*(nabooby|ataagiby|wiinzoby|wanakoshkinzhy|ninjy|eyaaby|zhy)$,NONE,pl,NONE,pl,NONE
 NI,NI_Cy,ni,^.*[bcdfghjklmnpstwyz']y$,NONE,pl,NONE,pl,^.*iin
 NI,NI_VVny,ni,^.*nh?y$,NONE,pl,NONE,loc,NONE
 NI,NI_VV,ni,^.*(aa|ii|oo|e)w?$,NONE,pl,NONE,loc,NONE
