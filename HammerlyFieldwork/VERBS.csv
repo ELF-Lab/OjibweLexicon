@@ -261,9 +261,25 @@ adaawaagen,adaawaagen,VTA,VTA_C,sell h/,OPD-Sentences
 agaasaatenan,agaasaaten,VTI,VTI_am,narrow it,OPD-Sentences
 agwaadaabiin,agwaadaabii,VAIO,VAIO,s/he drags or pulls a load ashore,OPD-Sentences
 izhiwebishkamaw,izhiwebishkamaw,VTA,VTA_aw,kick h/ with your foot or body,OPD-Sentences
-apagajiwebishkaw,apagajiwebishkaw,VTA,VTA_aw,bump into h/,OPD-Sentences
++,apagajiwebishkaw,VTA,VTA_aw,bump into h/,OPD-Sentences
 ginoosidoon,ginoosid,VTI,VTI_oo,make it long,OPD-Sentences
 dagonamaazon,dagonamaazo,VAIO,VAIO,apply it to oneself,OPD-Sentences
 zasagaakwa'an,zasagaakwa',VTI,VTI_am,nail it onto a post,OPD-Sentences
 gwekwekiiginan,gwekwekiigin,VTI,VTI_am,fold by turning over and over,OPD-Sentences
 ojaanimikamigad,ojaanimikamigad,VII,VII_d,it is a busy event,OPD-Sentences
+ombiigwewezige,ombiigwewezige,VAI,VAI_VV,s/he makes a lot of noise pounding,OPD-Sentences
+ombiigweyaakwa'ige,ombiigweyaakwa'ige,VAI,VAI_VV,s/he makes noise knocking wood,OPD-Sentences
+mooshkineyaabasaa,mooshkineyaabasaa,VII,VII_VV,it is filled with smoke,OPD-Sentences
+onzaaminawe',onzaaminawe',VTA,VTA_C,annoy h/,OPD-Sentences
+andawadaawen,andawadaawe,VAIO,VAIO,s/he looks for it to buy,OPD-Sentences
+andawazhashkwe,andawazhashkwe,VAI,VAI_VV,s/he goes muskrat hunting,OPD-Sentences
+ininaagane,ininaagane,VAI,VAI_VV,s/he fills up another plate,OPD-Sentences
+waawaasise,waawaasise,VII,VII_VV,it flashes,OPD-Sentences
+gizhaatawi-ayaa,gizhaatawi-ayaa,VAI,VAI_VV,s/he hangs around,OPD-Sentences
+gabenaadiwag,gabenaadi,VAI,VAI_rcp,They berate each other,OPD-Sentences
+baasiminike,baasiminike,VAI,VAI_VV,s/he makes dried berries,OPD-Setences
+wiinate,wiinate,VII,VII_VV,it is dirty,OPD-Sentences
+zaagagwamo,zaagagwamo,VAI,VAI_V,s/he hangs out in the water,OPD-Sentences
+zaagijiwe,zaagijiwe,VAI,VAI_V,s/he comes outside,OPD-Sentences
+zhegwaabanjige,zhegwaabanjige,VAI,VAI_V,s/he judges or referees,OPD-Sentences
+zhiishiigwaakaa,zhiishiigwaakaa,VII,VII_VV,there is a rattle snake,OPD-Sentences
