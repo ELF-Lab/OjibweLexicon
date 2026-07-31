@@ -72,7 +72,7 @@ giizhigo-giizis,giizhigo-giizisw2,NA,NA_Cw,the sun,OPD-Sentences
 gikaawin,gikaawin,NA,NA_C,old age,OPD-Sentences
 waaboowaan,waaboowaan,NI,NI_C,blanket,OPD-Sentences
 bikwan,bikwan,NID,NID_aa,back,OPD-Sentences
-ikwaa,ikwaaw2,NAD,NAD_VV,in-law,OPD-Sentences
+dikwaa,dikwaaw2,NAD,NAD_VV,in-law,OPD-Sentences
 ishpabi,ishpabiw2,NA,NA_Vw,chairperson,OPD-Sentences
 ishkodewidaabaani-biiwaabiko-miikana,ishkodewidaabaani-biiwaabiko-miikan,NI,NI_Kana,railroad track,OPD-Sentences
 ishpi-naanan,ishpi-naanan,NI,NI_C,high five,OPD-Sentences
@@ -85,8 +85,6 @@ moozowayaan,moozowayaan,NA,NA_C,moosehide,OPD-Sentences
 negwaakwaajigan,negwaakwaajigan,NI,NI_C,a tap (for getting sap from a tree),OPD-Sentences
 bwaazhii-aabajichigan,bwaazhii-aabajichigan,NI,NI_C,dancing regalia, OPD-Sentences
 niibinise,niibinise,NA,NA_VV,summer bird,OPD-Sentences
-niij,niij,NA,NA_C,my friend,OPD-Sentences
-niijii,niijii,NA,NA_VV,my friend,OPD-Sentences
 mashkosii-wiiwakwaanens,mashkosii-wiiwakwaanens,NI,NI_C,straw hat,OPD-Sentences
 minaaweyaandawaan,minaaweyaandawaan,NI,NI_C,dock,OPD-Sentences
 mindimoowe-mazina'igan,mindimoowe-mazina'igan,NI,NI_C,pension check,OPD-Sentences
@@ -102,5 +100,20 @@ dinimaangan,dinimaangan,NID,NID_aa,shoulder,OPD-Sentences
 ozhibii'amaagewin,ozhibii'amaagewin,NI,NI_C,letter,OPD-Sentences
 ozhibii'iganaak,ozhibii'iganaakw2,NA,NA_irrCw,pen,OPD-Sentences
 wiinimosheny,wiinimosheny1,NAD,NAD_VVny,sweetheart,OPD-Sentences
-bikwasin,bikwasiny,NI,NI_Cy,boulder,OPD-Sentences
+bikwasin,bikwasiny2,NI,NI_Cy,boulder,OPD-Sentences
 ogimaa-bineshiinh,ogimaa-bineshiiny1,NA,NA_VVny,kingbird,OPD-sentences
+okijiwaabik,okijiwaabikw2,NI,NI_Cw,chimney,OPD-Sentences
+okwa'wewigamigoons,okwa'wewigamigoons,NI,NI_C,ice house,OPD-Sentences
+naboobiiwinaagaans,naboobiiwinaagaans,NI,NI_C,soup bowl,OPD-Sentences
+waabanoo-anang,waabanoo-anangw2,NA,NA_Cw,morning star,OPD-Sentences
+waakoonsi-bakwezhigan,waakoonsi-bakwezhigan,NA,NA_C,fish-egg bread,OPD-Sentences
+Waalmaak-adaawewigamig,Waalmaak-adaawewigamigw2,NI,NI_Cw,Walmart Stores,OPD-Sentences
+waasigani-bimidewi-biiwaabikoon,waasigani-bimidewi-biiwaabikoon,NI,NI_C,jerrycan,OPD-Sentences
+waawaashkeshiwizagiinens,waawaashkeshiwizagiinens,NI,NI_C,deer shoulder quarter,OPD-Sentences
+wanii'ige-waakaa'igaans,wanii'ige-waakaa'igaans,NI,NI_C,trapping cabin,OPD-Sentences
+wemitigoozhiiwasimoons,wemitigoozhiiwasimoons,NA,NA_C,french poodle,OPD-Sentences
+wiigwaasi-jiimaanikewin,wiigwaasi-jiimaanikewin,NI,NI_C,birchbark canoe making,OPD-Sentences
+wiijigamishkawaagan,wiijigamishkawaagan,NA,NA_C,neighbor,OPD-Sentences
+wiinibiigoo-mindimooyenh,wiinibiigoo-mindimooyenhy1,NA,NA_VVny,Hochunk lady,OPD-Sentences
+zhooshooshkobizonikaan,zhooshooshkobizonikaan,NI,NI_C,slide,OPD-Sentences
+aakwaagamide-bimide,aakwaagamide-bimidew2,NI,NI_VV,hot grease,OPD-Sentences
