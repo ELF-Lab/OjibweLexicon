@@ -17,6 +17,10 @@ Same as the other directories: Lemma, Stem, Paradigm, Class, Translation, Source
 
 967 rows (779 verbs, 95 nouns, 81 proper names, 12 preverbs, preadverbs and prenouns; the 5 preverbs are also listed as preadverbs, as in `OPD/`). 198 rows are not here yet, among them every particle and adverb: they wait on Chris Hammerly's review (particle kinds guessed from the gloss, stem classes the texts don't settle, words the FST already analyses another way, and a few entries odd in the print). Proper names are kept; participles are recorded separately and not added as lemmas.
 
+## Variants the glossaries print as *also*
+
+Drafted by Claude on 25 Nov 2026 for Chris Hammerly's review, each with an impact report (Ojibwe Language Explorer, `audit/coverage/impact/2026-11-25_also-variants/`). Each is a spelling the glossary prints after *also* under another headword, attested among the ONJ words the FST did not analyse; each takes the class of its headword in `OPD/`, and the Source is the first issue printing the variant. `chimookomaan` (under *gichimookomaan*; accepted by Chris Hammerly) is in NOUNS.csv. Drafted, for review: `ige` (*gaye*), `inakeyi'ii` and `keyi'ii` (*akeyaa*), `niibiyo` (*niibowa*, "Rainy Lake dialects"), `abezhig` (*bezhig*), `hai'` (*hay'*), `zaaga'egan` (*zaaga'igan*, "Wisconsin").
+
 ## Using it in the FST
 
 Add the directory to `LEMMAS_DIR` when building OjibweMorph:
