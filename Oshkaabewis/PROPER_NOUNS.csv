@@ -1,7 +1,7 @@
 Lemma,Stem,Paradigm,Class,Translation,Source
 Aagawaat,Aagawaat,NamePerson,NamePerson,Aagawaat,onj-v05n1-p103
-Aazhoomag,Aazhoomag,NamePlace,NamePlace,"Lake Lena, Minnesota B, C",onj-v03n2-p78
-Aazhoomog,Aazhoomog,NamePlace,NamePlace,"Lake Lena, Minnesota B, C",onj-v05n2-p71
+Aazhoomag,Aazhoomag,NamePlace,NamePlace,"Lake Lena, Minnesota",onj-v03n2-p78
+Aazhoomog,Aazhoomog,NamePlace,NamePlace,"Lake Lena, Minnesota",onj-v05n2-p71
 Akiiwinini,Akiiwininiw2,NamePerson,NamePerson_Vw,Earth Man,onj-v07n1-p139
 Asiniiwikaag,Asiniiwikaag,NamePlace,NamePlace,Little Rock village,onj-v07n2-p130
 Azhede-ziibiing,Azhede-ziibiing,NamePlace,NamePlace,"Rhinelander, Wisconsin",onj-v04n2-p115
@@ -15,7 +15,7 @@ Bwaanakiing,Bwaanakiing,NamePlace,NamePlace,"Sioux lands, Dakota country",onj-v0
 Chi-aanakwad,Chi-aanakwad,NamePerson,NamePerson,Chi-aanakwad,onj-v05n1-p112
 Dapinanidiwin,Dapinanidiwin,NamePlace,NamePlace,Battle River (Red Lake),onj-v07n1-p150
 Debaasige,Debaasige,NamePerson,NamePerson,Debaasige (Light of the Sun),onj-v03n1-p108
-Dedaakam,Dedaakam,NamePerson,NamePerson,"Dedaak:am, Jim Littlewolf",onj-v05n1-p114
+Dedaakam,Dedaakam,NamePerson,NamePerson,"Dedaakam, Jim Littlewolf",onj-v05n1-p114
 Dewegishigamiing,Dewegishigamiing,NamePlace,NamePlace,"Dewegishigamiing, Wisconsin (no English equivalent-a small community on the north end of the Lac Courte Oreilles reservation)",onj-v03n2-p86
 Eko-biising,Eko-biising,NamePlace,NamePlace,"Duxbury, Wisconsin",onj-v05n2-p78
 Eshpan,Eshpan,NamePerson,NamePerson,Eshpan,onj-v05n1-p115
@@ -70,8 +70,8 @@ Wekonamindaawangaag,Wekonamindaawangaag,NamePlace,NamePlace,"Big Sand Lake, Wisc
 Wekonamindaawangaansing,Wekonamindaawangaansing,NamePlace,NamePlace,"Little Sand Lake, Wisconsin (Maple Plain)",onj-v03n2-p112
 Wemizisekonaa,Wemizisekonaa,NamePerson,NamePerson,Clothed-in-the-Garb-of-a-Turkey,onj-v03n1-p36
 Wewanabi,Wewanabiw2,NamePerson,NamePerson_Vw,Wewanabi,onj-v05n1-p150
-Wiigoobii-ziibiing,Wiigoobii-ziibiing,NamePlace,NamePlace,Grantsburg (Minnesota),onj-v08n1-p147
-Wiigoobiiziibiing,Wiigoobiiziibiing,NamePlace,NamePlace,"Grantsburg, Minnesota",onj-v05n2-p100
+Wiigoobii-ziibiing,Wiigoobii-ziibiing,NamePlace,NamePlace,"Grantsburg, Wisconsin",onj-v08n1-p147
+Wiigoobiiziibiing,Wiigoobiiziibiing,NamePlace,NamePlace,"Grantsburg, Wisconsin",onj-v05n2-p100
 Wiikonamindaawangaag,Wiikonamindaawangaag,NamePlace,NamePlace,Hertel (Wisconsin),onj-v05n2-p100
 Wiikonamindaawangaansing,Wiikonamindaawangaansing,NamePlace,NamePlace,Maple Plain (Wisconsin),onj-v05n2-p100
 Zezabegamaag,Zezabegamaag,NamePlace,NamePlace,"Bay Lake, Minnesota",onj-v01n2-p184
